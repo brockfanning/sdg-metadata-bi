@@ -1,0 +1,11 @@
+---
+layout: single
+---
+<div class="download-buttons">
+  <a class="btn btn--info" href="{{ site.baseurl }}/documents/{{ page.language }}/{{ page.slug }}.pdf">{{ site.data.store.t[page.language].site.DOWNLOAD_PDF | default: 'Download PDF' }}</a>
+  <a class="btn btn--info" href="{{ site.baseurl }}/sdmx/{{ page.language }}/{{ page.slug }}.xml">{{ site.data.store.t[page.language].site.DOWNLOAD_SDMX | default: 'Download SDMX' }}</a>
+  {% if site.data.history[page.slug] %}
+  <a class="btn btn--info" href="{{ site.baseurl }}/history/{{ page.slug }}/">{{ site.data.store.t[page.language].site.REVISION_HISTORY | default: 'Revision history' }}</a>
+  {% endif %}
+</div>
+{{ content }}

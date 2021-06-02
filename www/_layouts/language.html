@@ -1,0 +1,10 @@
+---
+layout: single
+---
+{{ site.data.languages[page.language].blurb | markdownify }}
+
+{% for goal in page.goals %}
+<a class="goal-link" href="{{ goal }}">
+  <img src="https://open-sdg.org/sdg-translations/assets/img/goals/en/{{ goal }}.png" alt="Goal {{ goal }}" />
+</a>
+{% endfor %}
