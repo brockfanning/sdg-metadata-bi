@@ -38,7 +38,7 @@ module SdgMetadataPlugins
       # Quick fix for four-part indicator numbers.
       if parts.size == 4
         fourth = parts.pop
-        parts[2] + fourth
+        parts[2] = parts[2] + fourth
       end
 
       # Now we can rely on Gem::Version.new().
