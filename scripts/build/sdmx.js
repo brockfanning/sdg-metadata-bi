@@ -12,6 +12,11 @@ module.exports = function(refresh=false) {
     }
     const translations = store.getTranslationStore()
 
+    function prepareOutput(text) {
+        return text
+            .replace(/'/g, '&#39;')
+    }
+
     convertSdmx()
 
     function getSeriesFromIndicatorId(indicatorId) {
@@ -23,7 +28,6 @@ module.exports = function(refresh=false) {
         }
         if (matches.length > 1) {
             console.log('WARNING: Multiple series matching indicator ' + indicatorId)
-            console.log('-- (using the first one)')
         }
         return matches[0].key
     }
@@ -32,9 +36,14 @@ module.exports = function(refresh=false) {
         for (const language of Object.keys(translations)) {
             for (const indicatorId of Object.keys(translations[language])) {
                 const concepts = translations[language][indicatorId]
+                for (const concept in Object.keys(concepts)) {
+                    if (concepts[concept]) {
+                        concepts[concept] = prepareOutput(concepts[concept])
+                    }
+                }
                 const series = getSeriesFromIndicatorId(indicatorId)
                 if (!series) {
-                    console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
+                    //console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
                     continue
                 }
                 const descriptors = {
@@ -48,7 +57,7 @@ module.exports = function(refresh=false) {
                 const targetFile = indicatorId + '.xml'
                 const targetPath = path.join(targetFolder, targetFile)
                 await sdmxOutput.write(metadata, targetPath)
-                console.log(`Created ${targetPath}.`);
+                //console.log(`Created ${targetPath}.`);
             }
         }
     }
