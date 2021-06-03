@@ -885,6 +885,61 @@
 </fields>
 
 						</indicator>
+						<indicator id="4-4-1">
+								<fields>
+									<field id="SDG_GOAL">Goal 4. Ensure equitable, inclusive and quality education and lifelong learning opportunities for all
+									</field>
+									<field id="SDG_TARGET">4.4 By 2030, significantly increase the number of young people and adults with the skills, including technical and vocational skills, necessary for employment, decent work and entrepreneurship
+									</field>
+									<field id="SDG_INDICATOR">4.4.1. % of 6th year leavers enrolled in CEMs (public and private)
+									</field>
+									<field id="STAT_CONC_DEF">Proportion of students entering vocational training centers compared to all students having completed 6 th
+									</field>
+									<field id="UNIT_MEASURE">%
+									</field>
+									<field id="DATA_COMP">Ratio between students entering Trades Education Centers and all students having completed 6th grade, multiplied by 100.
+									</field>
+									<field id="COVERAGE">Not available
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="META_LAST_UPDATE"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_ORGANISATION"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="SOURCE_TYPE"/>
+									<field id="COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="REL_CAL_POLICY"/>
+									<field id="DATA_SOURCE"/>
+									<field id="COMPILING_ORG"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="RATIONALE"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+									<field id="COMPARABILITY"/>
+									<field id="OTHER_DOC"/>
+</fields>
+
+						</indicator>
 						<indicator id="4-a-1">
 								<fields>
 									<field id="SDG_GOAL">Goal 4. Ensure equitable, inclusive and quality education and lifelong learning opportunities for all
@@ -942,6 +997,149 @@
 									<field id="ORGANISATION_UNIT"/>
 									<field id="CONTACT_FUNCT"/>
 									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="5-1-2">
+								<fields>
+									<field id="SDG_GOAL">Goal 5. Achieve gender equality and empower all women and girls
+									</field>
+									<field id="SDG_TARGET">5.1 End all forms of discrimination against women and girls everywhere
+									</field>
+									<field id="SDG_INDICATOR">5.1.2. % of seats held by women in the national parliament
+									</field>
+									<field id="CONTACT_ORGANISATION">PARLIAMENT AND SENATE
+									</field>
+									<field id="CONTACT_NAME">Parliament and Senate website
+									</field>
+									<field id="STAT_CONC_DEF">It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate
+									</field>
+									<field id="SOURCE_TYPE">Website of the National Assembly and the Senate
+									</field>
+									<field id="COLL_METHOD">Consultation of the Assembly and Senet website
+									</field>
+									<field id="FREQ_COLL">N / A
+									</field>
+									<field id="REL_CAL_POLICY">N / A
+									</field>
+									<field id="DATA_SOURCE">N / A
+									</field>
+									<field id="COMPILING_ORG">N / A
+									</field>
+									<field id="INST_MANDATE">N / A
+									</field>
+									<field id="RATIONALE">The indicator is relevant because it reflects the texts and laws passed;
+									</field>
+									<field id="REC_USE_LIM">The update of the indicator results from the site feed
+									</field>
+									<field id="DATA_COMP">It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100
+									</field>
+									<field id="DATA_VALIDATION">N / A
+									</field>
+									<field id="COVERAGE">Available nationally
+									</field>
+									<field id="COMPARABILITY">N / A
+									</field>
+									<field id="OTHER_DOC">Assembly and Senate website
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="META_LAST_UPDATE"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="6-2-1">
+								<fields>
+									<field id="SDG_GOAL">Objective 6. Guarantee access for all to sustainably managed water supply and sanitation services
+									</field>
+									<field id="SDG_TARGET">6.2 By 2030, ensure access for all, under equitable conditions, to adequate sanitation and hygiene services and end open defecation, paying special attention to the needs of women and girls and people in vulnerable situations
+									</field>
+									<field id="SDG_INDICATOR">6.2.1. % of the population with access to adequate sanitation
+									</field>
+									<field id="META_LAST_UPDATE">5/1/2020 12:00:00 AM
+									</field>
+									<field id="CONTACT_ORGANISATION">Burundi Institute of Statistics and Economic Studies (ISTEEBU) / REGIDESO
+									</field>
+									<field id="CONTACT_NAME">NDAYISENGA Modest / WAKANA Ferdinand
+									</field>
+									<field id="ORGANISATION_UNIT">Social Studies and Statistics and Poverty Monitoring Service &quot;SESSSP&quot; / MHEM statistics and planning service
+									</field>
+									<field id="CONTACT_FUNCT">Head of “Social Studies and Statistics and Poverty Monitoring” service / SDG focal point at MHEM
+									</field>
+									<field id="CONTACT_PHONE">(+257) 79401937 / (+ 257) 79977298
+									</field>
+									<field id="CONTACT_MAIL">1156 BUJUMBURA
+									</field>
+									<field id="CONTACT_EMAIL">ndayimode2010@gmail.com / wakanafer@yahoo.fr
+									</field>
+									<field id="STAT_CONC_DEF">This is the percentage of the population with access to improved sanitation facilities. These improved facilities include flush toilets with septic tanks, traditional improved or ventilated latrines, and sewage-connected latrines. The excreta treatment system is considered adequate if it is private (not shared) and if it prevents human contact with human excrement
+									</field>
+									<field id="UNIT_MEASURE">Percentage
+									</field>
+									<field id="SOURCE_TYPE">Household surveys
+									</field>
+									<field id="COLL_METHOD">Data are collected from household surveys using the “household” questionnaire
+									</field>
+									<field id="FREQ_COLL">The probable date of the next collection will be 2020
+									</field>
+									<field id="REL_CAL_POLICY">In 2021
+									</field>
+									<field id="DATA_SOURCE">ISTEEBU / Ministry of Hydraulics, Energy and Mines
+									</field>
+									<field id="COMPILING_ORG">ISTEEBU is responsible for compiling this indicator at the national level
+									</field>
+									<field id="INST_MANDATE">ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination of official statistics helping in planning and decision-making.
+									</field>
+									<field id="RATIONALE">The indicator is relevant because it reflects the level of coverage of the population in terms of sanitation, an essential element for social well-being, in this case good health.
+									</field>
+									<field id="REC_USE_LIM">Updating the indicator most often requires a household survey which requires a lot of resources. The indicator cannot be calculated by gender.
+									</field>
+									<field id="DATA_COMP">Ratio of ordinary households connected to a sump, ditch, main collector and soak-off well and all ordinary households, expressed as a percentage
+									</field>
+									<field id="DATA_VALIDATION">The results of the survey are validated at two levels: technical validation and official validation before publication. Administrative data are validated by the technical committee for statistical information (CTIS)
+									</field>
+									<field id="COVERAGE">The indicator is available at national level, province, area of residence (Total; Urban area; Rural area)
+									</field>
+									<field id="COMPARABILITY">The indicator can be compared to other indicators of the same type at regional and international level
+									</field>
+									<field id="OTHER_DOC">Annual report of the Ministry of Water, Energy and Mines.
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
 									<field id="IND_DEF_CON_CLASS"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
@@ -8183,54 +8381,6 @@
 </fields>
 
 						</indicator>
-						<indicator id="4-4-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="4-4-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -8472,54 +8622,6 @@
 
 						</indicator>
 						<indicator id="5-1-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="5-1-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
@@ -9192,54 +9294,6 @@
 
 						</indicator>
 						<indicator id="6-1-4">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="6-2-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
