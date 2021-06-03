@@ -36,7 +36,7 @@ module.exports = function(refresh=false) {
         for (const language of Object.keys(translations)) {
             for (const indicatorId of Object.keys(translations[language])) {
                 const concepts = translations[language][indicatorId]
-                for (const concept in Object.keys(concepts)) {
+                for (const concept of Object.keys(concepts)) {
                     if (concepts[concept]) {
                         concepts[concept] = prepareOutput(concepts[concept])
                     }
