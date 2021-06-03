@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T13:45:57.988Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T14:46:45.423Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,14 +11,14 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="06845a76-e3b6-4237-a182-c055ce98854b">
+  <mes:MetadataSet structureRef="MDS1" setID="e40b1af8-a563-4fee-bdde-1521deaf3580">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>1.a.1</com:Value>
+              <com:Value>SG_POV_DOM</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
