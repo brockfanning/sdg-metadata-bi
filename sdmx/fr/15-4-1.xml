@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.252Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.451Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="668e2c1b-cef4-4fca-871f-909c555f2f59">
+  <mes:MetadataSet structureRef="MDS1" setID="cd90b65b-d2a3-4b62-bd4b-e20b969dbd8b">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -48,7 +48,7 @@
           <com:Text xml:lang="fr"><![CDATA[2012]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[Office Burundaise pour la Protection de l'Environnement (OBPE)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Office Burundaise pour la Protection de l&#39;Environnement (OBPE)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="fr"><![CDATA[NTAKARUTIMANA Oswald]]></com:Text>
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[Point focal de la production des ODD de  l'OBPE]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Point focal de la production des ODD de  l&#39;OBPE]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="fr"><![CDATA[79946503]]></com:Text>
@@ -90,13 +90,13 @@
           <com:Text xml:lang="fr"><![CDATA[OBPE]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="fr"><![CDATA[L'OBPE en tant structure étatique reconnu a un mandat collecter, traiter et diffuser les données du secteur]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;OBPE en tant structure étatique reconnu a un mandat collecter, traiter et diffuser les données du secteur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il rend compte du niveau de la de la protection de l'environnement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est pertinent car il rend compte du niveau de la de la protection de l&#39;environnement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend  de la collecte régulière des données sur le niveau de la protection de l'envirennement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;exhaustivité de cet indicateur dépend  de la collecte régulière des données sur le niveau de la protection de l&#39;envirennement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"><![CDATA[Rapport entre  la superficie des  écosystèmes naturels montagneux qui se trouvent dans les aires  protégées du pays et la superficie totale du pays, exprimé en pourcentage.]]></com:Text>
@@ -108,10 +108,10 @@
           <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="fr"><![CDATA[L'ndicateur est comparable au niveau international]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;ndicateur est comparable au niveau international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Annuaire Statistique de l'Environnement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Annuaire Statistique de l&#39;Environnement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

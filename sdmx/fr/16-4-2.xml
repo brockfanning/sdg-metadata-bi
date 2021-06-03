@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.272Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.468Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="da3a39b1-ac8d-46fa-919d-91245f11a618">
+  <mes:MetadataSet structureRef="MDS1" setID="bdae7d11-c5c0-4dbe-8d53-484882000c56">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -42,13 +42,13 @@
           <com:Text xml:lang="fr"><![CDATA[16.4 D’ici à 2030, réduire nettement les flux financiers illicites et le trafic d’armes, renforcer les activités de récupération et de restitution des biens volés et lutter contre toutes les formes de criminalité organisée]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[16.4.2 Nombre d'armes saisies, trouvées ou rendues volontairement dont la provenance ou l’utilisation illicite a été retracée ou établie par des autorités compétentes]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[16.4.2 Nombre d&#39;armes saisies, trouvées ou rendues volontairement dont la provenance ou l’utilisation illicite a été retracée ou établie par des autorités compétentes]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
           <com:Text xml:lang="fr"><![CDATA[MDNAC&MSPGC]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le nombre d'armes par type saisies]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le nombre d&#39;armes par type saisies]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
@@ -87,7 +87,7 @@
           <com:Text xml:lang="fr"><![CDATA[La validation se fait à deux niveau: Niveau interne et au niveau du CTIS avant publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national et par type d'arme ([MDNAC: Armes, Grénades, Cartouches, Bombes]; [MSPGC: Armes, Grénades, Cartouches, Bombes])]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national et par type d&#39;arme ([MDNAC: Armes, Grénades, Cartouches, Bombes]; [MSPGC: Armes, Grénades, Cartouches, Bombes])]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.278Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.472Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="37e39072-0aad-4bc0-9650-3c8a456b4bed">
+  <mes:MetadataSet structureRef="MDS1" setID="f51996be-4a4d-44b8-8a61-07084ef5dbee">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la pourcentage de la population dont la dernière expérience avec les services publics a été satisfaisante]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la pourcentage de la population dont la dernière expérience avec les services publics a été satisfaisante]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -93,7 +93,7 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l'augmentation d'une population au cours d'une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
@@ -111,7 +111,7 @@
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête auprès des ménages EICVMB 2019_2020]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête auprès des ménages EICVMB 2019_2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.422Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.606Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="c5b607b7-1c38-4a63-8eb6-4c6bede7581e">
+  <mes:MetadataSet structureRef="MDS1" setID="9a5845dc-cd99-4981-a25e-0a62d34942cc">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -102,13 +102,13 @@
           <com:Text xml:lang="fr"><![CDATA[Le numérateur peut ne pas être exhaustif car certains ménages alimentés en électricité ne sont pas enregistrés à la REGIDESO. L’indicateur ne pas être calculé par sexe.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre  la population pouvant être connectée à  l'électricité et  population totale, exprimé en pourcentage]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre  la population pouvant être connectée à  l&#39;électricité et  population totale, exprimé en pourcentage]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données résultats de l’enquête sont validées à deux niveaux : validation technique et validation officielle avant la publication.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est  disponible au National et par milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est  disponible au National et par milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

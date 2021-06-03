@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.372Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.551Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a4154b34-4694-4aed-903f-829d7a65e3a0">
+  <mes:MetadataSet structureRef="MDS1" setID="08bea207-7704-44d4-a45f-4a59d1586e9b">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la proportion d'enfants de 12 à 23 mois ayant reçu toutes les doses de vaccins]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la proportion d&#39;enfants de 12 à 23 mois ayant reçu toutes les doses de vaccins]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -99,19 +99,19 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d'enfants de 12 à 23 mois ayant reçu toutes les doses de vaccins multiplié par 100 et divisé par la population de 12 à 23 mois attendue.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39;enfants de 12 à 23 mois ayant reçu toutes les doses de vaccins multiplié par 100 et divisé par la population de 12 à 23 mois attendue.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Total; Milieu urbain; Milieu rural)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (Total; Milieu urbain; Milieu rural)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête Démographique et de Santé 2016-2017]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

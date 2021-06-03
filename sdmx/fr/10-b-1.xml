@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.211Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.419Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="1b24fcfe-dacc-45e9-a370-67d4a0cbb38f">
+  <mes:MetadataSet structureRef="MDS1" setID="4d015615-f9cc-4b0e-b365-f8fde9f596f4">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[emmanuelniyonkuru20@yahoo.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Montant total des ressources allouées au développement, par pays bénéficiaire et donateur et type d’apport  comprennent l'aide publique au développement , les autres flux officiels  et les flux privés.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Montant total des ressources allouées au développement, par pays bénéficiaire et donateur et type d’apport  comprennent l&#39;aide publique au développement , les autres flux officiels  et les flux privés.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -96,7 +96,7 @@
           <com:Text xml:lang="fr"><![CDATA[La somme des flux officiels et privés de tous les donateurs vers les pays en développement.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l'information statistique (CTIS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l&#39;information statistique (CTIS)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Les données sont disponibles au niveau national]]></com:Text>

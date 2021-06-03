@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.392Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.576Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="9fd073de-e01d-4aae-a47a-57ed3f9ff5c7">
+  <mes:MetadataSet structureRef="MDS1" setID="72b9e4b0-356b-4fc9-9a6a-c86c88a2897a">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -42,7 +42,7 @@
           <com:Text xml:lang="fr"><![CDATA[4.5 D’ici à 2030, éliminer les inégalités entre les sexes dans le domaine de l’éducation et assurer l’égalité d’accès des personnes vulnérables, y compris les personnes handicapées, les autochtones et les enfants en situation vulnérable, à tous les niveaux d ’enseignement et de formation professionnelle]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[4.5.1 b) Indice de parité fille/ garçon à l'école post fondamentale]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[4.5.1 b) Indice de parité fille/ garçon à l&#39;école post fondamentale]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
           <com:Text xml:lang="fr"><![CDATA[MEFTP]]></com:Text>
@@ -57,16 +57,16 @@
           <com:Text xml:lang="fr"><![CDATA[eugenibar2017@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[c'est le rapport entre filles  et garçons]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[c&#39;est le rapport entre filles  et garçons]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[proportion]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[Bureau de la planification et des statistiques de l'éducation, annuaire statistique]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Bureau de la planification et des statistiques de l&#39;éducation, annuaire statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des Etablissements scolaires à l'aide du Questionnaire]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des Etablissements scolaires à l&#39;aide du Questionnaire]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="fr"><![CDATA[La collecte se fait annuellement]]></com:Text>
@@ -96,13 +96,13 @@
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation interne et validation au niveau du CTIS avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Annuaire  satatistique de l'Education]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Annuaire  satatistique de l&#39;Education]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

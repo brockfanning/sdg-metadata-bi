@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.256Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.454Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="b36e59dd-aaf3-454b-a969-1f071c910ce7">
+  <mes:MetadataSet structureRef="MDS1" setID="2a3d5914-2df7-497a-b825-d0f218acc749">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -63,7 +63,7 @@
           <com:Text xml:lang="fr"><![CDATA[cyrimibu@yahoo.fr]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le montant de l'aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le montant de l&#39;aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Millions de USD]]></com:Text>
@@ -90,13 +90,13 @@
           <com:Text xml:lang="fr"><![CDATA[Collecter, compiler et diffuser les données sur les aides]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il rend compte de la gestion des aides]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est pertinent car il rend compte de la gestion des aides]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend  de la collecte régulière des données]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;exhaustivité de cet indicateur dépend  de la collecte régulière des données]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Détermination du montant de l'aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes en millions de USD]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Détermination du montant de l&#39;aide publique au développement et dépenses publiques consacrées à la préservation et à l’exploitation durable de la biodiversité et des écosystèmes en millions de USD]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Rapport entre  la superficie des  écosystèmes naturels montagneux qui se trouvent dans les aires  protégées du pays et la superficie totale du pays, exprimé en pourcentage.]]></com:Text>
@@ -105,7 +105,7 @@
           <com:Text xml:lang="fr"><![CDATA[Disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Site de l'OCEDE]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Site de l&#39;OCEDE]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

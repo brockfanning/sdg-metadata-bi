@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.417Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.600Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="225b1421-3f46-474f-8229-7f8104aa937f">
+  <mes:MetadataSet structureRef="MDS1" setID="d01174c2-1e70-48ee-9a26-80ab5c0ef8b3">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -108,7 +108,7 @@
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication. Les données administratives sont validées par le comité technique de l’information statistique (CTIS)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

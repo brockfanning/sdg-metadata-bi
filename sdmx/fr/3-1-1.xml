@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.350Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.529Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="8151c032-2dc6-4a80-83b4-1cfb5e99d5be">
+  <mes:MetadataSet structureRef="MDS1" setID="006e650e-cb12-47ff-b466-0c9c49a79aaf">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Ce sont les décès des femmes enregistrés  pendant la grossesse, à l'accouchement ou après l'accouchement, que ce soit dans les structures de soins que dans la communauté. Le dénominateur est estimé à partir des données de la projection démographique.  Le rapport entre le nombre de femmes décédées pendant la grossesse, à l'accouchement ou après l'accouchement, que ce soit dans les structures de soins que dans la communauté, et le nombre de naissance]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Ce sont les décès des femmes enregistrés  pendant la grossesse, à l&#39;accouchement ou après l&#39;accouchement, que ce soit dans les structures de soins que dans la communauté. Le dénominateur est estimé à partir des données de la projection démographique.  Le rapport entre le nombre de femmes décédées pendant la grossesse, à l&#39;accouchement ou après l&#39;accouchement, que ce soit dans les structures de soins que dans la communauté, et le nombre de naissance]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Nombre de femmes pour cent milles naissances vivantes]]></com:Text>
@@ -99,19 +99,19 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur mesure les décès des femmes pendant la grossesse, à l'accouchement ou après l'accouchement, que ce soit dans les structures de soins que dans la communauté. Le dénominateur est estimé à partir des données de la projection démographique.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur mesure les décès des femmes pendant la grossesse, à l&#39;accouchement ou après l&#39;accouchement, que ce soit dans les structures de soins que dans la communauté. Le dénominateur est estimé à partir des données de la projection démographique.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête Démographique et de Santé 2016-2017]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête Démographique et de Santé 2016-2017]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

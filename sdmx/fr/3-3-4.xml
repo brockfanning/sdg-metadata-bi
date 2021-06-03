@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.365Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.544Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="158ea140-2310-482f-b321-cafbe42a5b7a">
+  <mes:MetadataSet structureRef="MDS1" setID="0a0e36d4-b049-4572-8490-09fe369f54ff">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -90,13 +90,13 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive dans les formations sanitaires . Pour le plupart des données les données des formations sanitaires privées ne sont pas prises en compte.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[(Nombre de cas de paludisme pour les enfants de moins de 5 ans divisé par le nombre total d'enfants de moins de 5ans) multiplié par 100.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[(Nombre de cas de paludisme pour les enfants de moins de 5 ans divisé par le nombre total d&#39;enfants de moins de 5ans) multiplié par 100.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de la collecte sont validés à deux niveaux : validation interne et validation au niveau du CTIS avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

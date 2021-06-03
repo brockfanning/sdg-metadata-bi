@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.245Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.445Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="fee84fd1-b62f-40be-bb47-0b907b10a9d0">
+  <mes:MetadataSet structureRef="MDS1" setID="b833f5f8-3b58-4c43-b797-1f37b028ec21">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[Service Comptabilité Nationale]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[membre de l'équipe ODD]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[membre de l&#39;équipe ODD]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="fr"><![CDATA[76108660]]></com:Text>
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[nshimirimanaflorence@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la Part de la valeur ajoutée de la pêche dans le PIB]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la Part de la valeur ajoutée de la pêche dans le PIB]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
@@ -93,10 +93,10 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est pertinent car il permet de déterminer les principaux aggrégats macroéconomiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est pertinent car il permet de déterminer les principaux aggrégats macroéconomiques]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[L'exhaustivité de cet indicateur dépend de la régularité et exhaustivité de collecte des données dans le secteur de la pêche]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;exhaustivité de cet indicateur dépend de la régularité et exhaustivité de collecte des données dans le secteur de la pêche]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"><![CDATA[Détermination de la proportion de  la valeur ajoutée de la pêche dans le PIB]]></com:Text>

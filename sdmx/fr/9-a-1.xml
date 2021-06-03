@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.441Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.625Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="6c0e4309-e019-4dff-9f06-dbf8551da444">
+  <mes:MetadataSet structureRef="MDS1" setID="244418a7-81a2-4f90-99e1-5c5c65eca215">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[emmanuelniyonkuru20@yahoo.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Décaissements bruts de l'Aide Publique Développement totale et autres flux officiels de tous les donateurs à l'appui des infrastructures.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Décaissements bruts de l&#39;Aide Publique Développement totale et autres flux officiels de tous les donateurs à l&#39;appui des infrastructures.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -93,7 +93,7 @@
           <com:Text xml:lang="fr"><![CDATA[Exhaustivité dans la collecte des données en rapports avec les appuis publics extérieurs, ainsi que l’harmonisation des classifications des secteurs]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l'information statistique (CTIS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l&#39;information statistique (CTIS)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Les données sont disponibles au niveau national]]></com:Text>

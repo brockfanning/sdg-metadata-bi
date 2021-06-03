@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.206Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.414Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="2c95d20f-c6d5-479f-a41e-c2798ccde147">
+  <mes:MetadataSet structureRef="MDS1" setID="708633e6-f72b-4d98-8896-aa00bb667558">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[nterichristine@yahoo.fr]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est l'effectif de la population burundaise refugiée à l'étranger qui est retournée]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est l&#39;effectif de la population burundaise refugiée à l&#39;étranger qui est retournée]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[sans unité]]></com:Text>
@@ -102,13 +102,13 @@
           <com:Text xml:lang="fr"><![CDATA[Il est intéressant de savoir le rapatriement est volontaire, conditionné ou forcé.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Somme de la population refugiée à l'extérieur du pays qui est retournée]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Somme de la population refugiée à l&#39;extérieur du pays qui est retournée]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données de sources administratives sont le plus souvent  validées par le comité technique de l’information statistique (CTIS), après validation interne.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est  disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est  disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

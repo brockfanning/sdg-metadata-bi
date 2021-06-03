@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.282Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.476Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="9c7f4e31-2c78-45d1-9db5-a39988f6fe22">
+  <mes:MetadataSet structureRef="MDS1" setID="32d8ba37-2646-4832-9da0-7689cd719673">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage  d’enfants de moins de 5 ans possédant un acte de naissance]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage  d’enfants de moins de 5 ans possédant un acte de naissance]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -96,7 +96,7 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBUest l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d'une année.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d&#39;une année.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
@@ -108,7 +108,7 @@
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (National; Filles; Garçons; Milieu urbain; Milieu rural)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (National; Filles; Garçons; Milieu urbain; Milieu rural)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

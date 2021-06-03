@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.289Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.481Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="0caea3ab-1f57-40ab-afc5-56e8695a7d5a">
+  <mes:MetadataSet structureRef="MDS1" setID="4b348c63-d369-4fca-934a-c4a99c8e725a">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,13 +66,13 @@
           <com:Text xml:lang="fr"><![CDATA[eric.irambona85@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage  du budget général de l’Etat financé par ressources propres]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage  du budget général de l’Etat financé par ressources propres]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[Données administratives des recettes de l'OBR et comptes nationaux de l'ISTEEBU, 2017]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Données administratives des recettes de l&#39;OBR et comptes nationaux de l&#39;ISTEEBU, 2017]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -93,10 +93,10 @@
           <com:Text xml:lang="fr"><![CDATA[L’OBR est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d'une année.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d&#39;une année.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre les ressources propres et le budget général de l'Etat,exprimé en pourcentage]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre les ressources propres et le budget général de l&#39;Etat,exprimé en pourcentage]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Annuelle]]></com:Text>

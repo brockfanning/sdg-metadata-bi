@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.438Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.622Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a9a4fb25-d442-4e81-96ee-60ccace65222">
+  <mes:MetadataSet structureRef="MDS1" setID="b6c03983-b519-4a66-b125-932726025bba">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -99,13 +99,13 @@
           <com:Text xml:lang="fr"><![CDATA[Il est intéressant de savoir la durabilité des routes bitumées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est calculé comme le rapport entre la longueur du réseau routier bitumée et classée praticable toute l’année par rapport  à toute la longueur de ce réseau, exprimée en pourcentage.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est calculé comme le rapport entre la longueur du réseau routier bitumée et classée praticable toute l’année par rapport  à toute la longueur de ce réseau, exprimée en pourcentage.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données de sources administratives sont le plus souvent  validées par le comité technique de l’information statistique (CTIS), après validation interne.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est  disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est  disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

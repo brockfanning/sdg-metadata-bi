@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.439Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.623Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="78c637c7-86ee-406f-b20b-d52090d2fe95">
+  <mes:MetadataSet structureRef="MDS1" setID="62e2ad32-b42e-413d-b765-d03a7ea77fff">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,10 +45,10 @@
           <com:Text xml:lang="fr"><![CDATA[9.3.1 Proportion des petites entreprises dans la valeur ajoutée totale de l’industrie]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[La proportion des «petites entreprises» dans la valeur ajoutée totale de l'industrie représente la part de la valeur ajoutée manufacturière des petites entreprises manufacturières dans la valeur ajoutée manufacturière totale.       Une entreprise est la plus petite unité légale qui constitue une unité organisationnelle produisant des biens ou des services. Les entreprises industrielles sont classées de petites par rapport aux grandes ou moyennes pour leur nature distincte d'organisation économique, de capacité de production, d'échelle d'investissement et d'autres caractéristiques économiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La proportion des «petites entreprises» dans la valeur ajoutée totale de l&#39;industrie représente la part de la valeur ajoutée manufacturière des petites entreprises manufacturières dans la valeur ajoutée manufacturière totale.       Une entreprise est la plus petite unité légale qui constitue une unité organisationnelle produisant des biens ou des services. Les entreprises industrielles sont classées de petites par rapport aux grandes ou moyennes pour leur nature distincte d&#39;organisation économique, de capacité de production, d&#39;échelle d&#39;investissement et d&#39;autres caractéristiques économiques]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Part de la valeur ajoutée des petites entreprises dans la valeur ajoutée totale de l'industrie]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Part de la valeur ajoutée des petites entreprises dans la valeur ajoutée totale de l&#39;industrie]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Non disponible]]></com:Text>

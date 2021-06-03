@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.336Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.516Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="5810ee8f-2193-4fd5-9572-4a784b2e47fd">
+  <mes:MetadataSet structureRef="MDS1" setID="00756fb6-0268-4ceb-94ba-fd4861d6524b">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -42,7 +42,7 @@
           <com:Text xml:lang="fr"><![CDATA[2.2 D’ici à 2030, mettre fin à toutes les formes de malnutrition, y compris en atteignant d’ici à 2025 les objectifs arrêtés à l’échelle internationale relatifs aux retards de croissance et à l’émaciation chez les enfants de moins de 5 ans, et répondre aux besoins nutritionnels des adolescentes, des femmes enceintes ou allaitantes et des personnes âgées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[2.2.1. Nombre d'enfants de moins de 5 ans en sous poids (Malnutrition aigue)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2.1. Nombre d&#39;enfants de moins de 5 ans en sous poids (Malnutrition aigue)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
@@ -105,13 +105,13 @@
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence (Total; Filles; Garçons; 6-11 mois; 12-23 mois; 24-59 mois)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (Total; Filles; Garçons; 6-11 mois; 12-23 mois; 24-59 mois)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête sur la situation nutritionnelle  au Burundi]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête sur la situation nutritionnelle  au Burundi]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

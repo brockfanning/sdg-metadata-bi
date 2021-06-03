@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.204Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.412Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="3d71b2cd-2fff-4622-8136-4e31f53be473">
+  <mes:MetadataSet structureRef="MDS1" setID="a6789ce1-725a-46b3-a98b-96fe01978a57">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -42,7 +42,7 @@
           <com:Text xml:lang="fr"><![CDATA[10.1 D’ici à 2030, assurer progressivement et durablement une croissance des revenus des 40% de la population les plus pauvres à un rythme plus rapide que le revenu moyen national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[10.1.1 b) Taux de croissance des dépenses des ménages par habitant pour l'ensemble de la population]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[10.1.1 b) Taux de croissance des dépenses des ménages par habitant pour l&#39;ensemble de la population]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le taux de croissance moyen annuel de la consommation réelle par habitant   de la répartition des revenus des ménages dans un pays]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le taux de croissance moyen annuel de la consommation réelle par habitant   de la répartition des revenus des ménages dans un pays]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
@@ -90,16 +90,16 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion, après validation, des statistiques officielles aidant dans la planification et la prise de décision]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte du niveau des dépenses au cours d'une année et permet de faire une comparaison]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte du niveau des dépenses au cours d&#39;une année et permet de faire une comparaison]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[C'est le rapport entre la variation des  dépenses des ménages par habitant au cours d'une année considérée rapporté aux dépenses des ménages par habitant de l'année pécédente,]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le rapport entre la variation des  dépenses des ménages par habitant au cours d&#39;une année considérée rapporté aux dépenses des ménages par habitant de l&#39;année pécédente,]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données des enquêtes sont validées à deux niveau: validation interne et validation élargie]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="fr"><![CDATA[Rapport ECVMB 2013-2014 et enquête QUIBB 2006]]></com:Text>

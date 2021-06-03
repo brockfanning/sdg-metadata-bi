@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.287Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.480Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="239eadb1-ae44-4a0b-bb50-216b77cac335">
+  <mes:MetadataSet structureRef="MDS1" setID="b52417cd-f0b3-40f1-912d-4417c3f097be">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l' OBR]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l&#39; OBR]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="fr"><![CDATA[75757705]]></com:Text>
@@ -72,7 +72,7 @@
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[Données administratives des recettes de l'OBR et comptes nationaux de l'ISTEEBU, 2014]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Données administratives des recettes de l&#39;OBR et comptes nationaux de l&#39;ISTEEBU, 2014]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -93,7 +93,7 @@
           <com:Text xml:lang="fr"><![CDATA[L’OBR est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d'une année.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence  la proportion des personnes victimes de violances  au cours d&#39;une année.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"><![CDATA[Rapport entre les recettes publiques et le  PIB, exprimé en pourcentage]]></com:Text>

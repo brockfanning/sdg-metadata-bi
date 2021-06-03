@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.374Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.552Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="7a4579d9-63c6-476c-bf05-9a4236339a98">
+  <mes:MetadataSet structureRef="MDS1" setID="76314702-1569-49da-a872-4daca45bff14">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[niyungeko.jacqueline@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la proportion des femmes enceintes testées positive au VIH/SIDA qui sont sous protocole PTME par rapport à toutes les femmes testées positives au VIH/SIDA au cours d'une période donnée.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la proportion des femmes enceintes testées positive au VIH/SIDA qui sont sous protocole PTME par rapport à toutes les femmes testées positives au VIH/SIDA au cours d&#39;une période donnée.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -90,13 +90,13 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive dans les formations sanitaires . Pour le plupart des données les données des formations sanitaires privées ne sont pas prises en compte.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[(Nombre de  femmes enceintes testées positives au VIH qui sont sous protocole PTME au cours d'une période donnée divisé par le nombre total de femmes testées positives au VIH au cours de cette même période) multiplié par 100.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[(Nombre de  femmes enceintes testées positives au VIH qui sont sous protocole PTME au cours d&#39;une période donnée divisé par le nombre total de femmes testées positives au VIH au cours de cette même période) multiplié par 100.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de la collecte sont validés à deux niveaux : validation interne et validation au niveau du CTIS avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

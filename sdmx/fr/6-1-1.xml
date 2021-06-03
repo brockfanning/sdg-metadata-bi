@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.415Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.598Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="8667f90a-68d9-4f2f-b337-0d35cd090dd5">
+  <mes:MetadataSet structureRef="MDS1" setID="c8a9c0d9-64ac-45d9-88b5-81b942dd03f1">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage entre le nombre de ménages (ou de la population) se procurant de l'eau dans les installations jugées capables de fournir de l'eau potable (branchements au réseau de distribution d'eau courante, bornes fontaines, forages munis de pompe à motricité humaine, adduction d'eau gravitaire ou pompage en milieu rural) et le nombre total de ménages (ou la population totale) au niveau national.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage entre le nombre de ménages (ou de la population) se procurant de l&#39;eau dans les installations jugées capables de fournir de l&#39;eau potable (branchements au réseau de distribution d&#39;eau courante, bornes fontaines, forages munis de pompe à motricité humaine, adduction d&#39;eau gravitaire ou pompage en milieu rural) et le nombre total de ménages (ou la population totale) au niveau national.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
@@ -102,19 +102,19 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre le nombre de ménages (ou de la population) se procurant de l'eau dans les installations jugées capables de fournir de l'eau potable (branchements au réseau de distribution d'eau courante, bornes fontaines, forages munis de pompe à motricité humaine, adduction d'eau gravitaire ou pompage en milieu rural) et le nombre total de ménages (ou la population totale) au niveau national, exprimé en pourcentage au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre le nombre de ménages (ou de la population) se procurant de l&#39;eau dans les installations jugées capables de fournir de l&#39;eau potable (branchements au réseau de distribution d&#39;eau courante, bornes fontaines, forages munis de pompe à motricité humaine, adduction d&#39;eau gravitaire ou pompage en milieu rural) et le nombre total de ménages (ou la population totale) au niveau national, exprimé en pourcentage au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national, province, Milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence  (Total; Milieu urbain; Milieu rural)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête auprès des ménages, archives du ministère de l’hydraulique, de l’énergie et des mines (REGIDESO et AHAMR)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête auprès des ménages, archives du ministère de l’hydraulique, de l’énergie et des mines (REGIDESO et AHAMR)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

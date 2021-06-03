@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.390Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.574Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="0e196685-bdbb-430f-817e-cabfeebe42d9">
+  <mes:MetadataSet structureRef="MDS1" setID="a44f22f2-5ab4-4da5-82be-b40345a3b405">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,13 +45,13 @@
           <com:Text xml:lang="fr"><![CDATA[4.4.1. % des sortants de 6ème année scolarisés dans les CEM (public et privés)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Proportion de élèves entrant dans les Centre d'Enseignement des Métiers par rapport à tous les élèves ayant terminé la 6 ème]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Proportion de élèves entrant dans les Centre d&#39;Enseignement des Métiers par rapport à tous les élèves ayant terminé la 6 ème]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre les élèves entrant dans les Centres d'Enseignement des Métiers et tous les élèves ayant terminé la 6 ème, multiplié par 100.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre les élèves entrant dans les Centres d&#39;Enseignement des Métiers et tous les élèves ayant terminé la 6 ème, multiplié par 100.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Non disponible]]></com:Text>

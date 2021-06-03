@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.303Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.494Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a99e4da5-0187-4923-879b-5dc073c7196b">
+  <mes:MetadataSet structureRef="MDS1" setID="f4168c34-bf12-4d25-a3ff-3e0e8b14c3af">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage des indicateurs priorisés au niveau national par rapport à tous les indicateurs de mise en œuvre des ODD arrêtés au niveau international]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage des indicateurs priorisés au niveau national par rapport à tous les indicateurs de mise en œuvre des ODD arrêtés au niveau international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -90,7 +90,7 @@
           <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre le nombre d'indicateurs priorisés et le total des indicateurs ODD, multiplié par 100]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre le nombre d&#39;indicateurs priorisés et le total des indicateurs ODD, multiplié par 100]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.419Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.601Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="29d56e75-cb65-4391-bb61-71b98630094c">
+  <mes:MetadataSet structureRef="MDS1" setID="d1d4702d-8535-4d5c-8ce2-0f353cc4c258">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -85,22 +85,22 @@ des organismes gouvernementaux donateurs, à tous les niveaux, aux pays en déve
           <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la proportion d'aide publique au développement consacrée à l'assainissement et l'eau.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la proportion d&#39;aide publique au développement consacrée à l&#39;assainissement et l&#39;eau.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive de toutes aides aides publiques au développement, consacrées à l'eau et l'assainissement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive de toutes aides aides publiques au développement, consacrées à l&#39;eau et l&#39;assainissement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données sont validées à deux niveaux : validation interne et validation au niveau du CTIS avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[Les données peuvent être comparées aux données antérieures]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport sur l'utilisation des aides publiques au développement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport sur l&#39;utilisation des aides publiques au développement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

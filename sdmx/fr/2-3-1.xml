@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.340Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.520Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="18164b88-d827-457c-972c-f5f0f6e9b846">
+  <mes:MetadataSet structureRef="MDS1" setID="038dc17e-7dd1-4462-9ab4-df30dfb1c997">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[dembaze@yahoo.fr]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[c'est le rapport entre le volume de production agricole sur l'effectif des travailleurs agricoles ou le volume d'heures du travail agricole]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[c&#39;est le rapport entre le volume de production agricole sur l&#39;effectif des travailleurs agricoles ou le volume d&#39;heures du travail agricole]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Tonne par travailleur]]></com:Text>
@@ -90,19 +90,19 @@
           <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens et dont la grande partie est donné par les partenaires]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre le volume de production agricole sur l'effectif des travailleurs agricoles ou le volume d'heures du travail agricole, exprimé en tonne par travailleur]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre le volume de production agricole sur l&#39;effectif des travailleurs agricoles ou le volume d&#39;heures du travail agricole, exprimé en tonne par travailleur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport de l'Enquête National de l'Agriculture au Burundi]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête National de l&#39;Agriculture au Burundi]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

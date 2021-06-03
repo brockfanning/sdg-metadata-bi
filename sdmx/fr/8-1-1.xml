@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.427Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.611Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="9551dc40-8aa7-45f0-84f9-f54befafb71d">
+  <mes:MetadataSet structureRef="MDS1" setID="59e9c23a-c950-4dec-ac18-27d23da71f73">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la variation en pourcentage du PIB  réel de l'année n par rapport au PIB réel de l'année n-1]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la variation en pourcentage du PIB  réel de l&#39;année n par rapport au PIB réel de l&#39;année n-1]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
@@ -78,7 +78,7 @@
           <com:Text xml:lang="fr"><![CDATA[Les données sont collectées auprès des sources administratives]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Le taux de croissance  du PIB réel est évalué par les prix de l'année de référence  et la production en volume des années considérées]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Le taux de croissance  du PIB réel est évalué par les prix de l&#39;année de référence  et la production en volume des années considérées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="fr"><![CDATA[chaque année]]></com:Text>
@@ -108,7 +108,7 @@
           <com:Text xml:lang="fr"><![CDATA[Les données de sources administratives sont le plus souvent  validées par le comité technique de l’information statistique (CTIS).]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est  disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est  disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>

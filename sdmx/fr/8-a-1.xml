@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.434Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.619Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="2e71ce78-8c94-4561-9bf6-6dd0abf90feb">
+  <mes:MetadataSet structureRef="MDS1" setID="6ac054ab-f606-45fc-9624-c576624d1b58">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -51,7 +51,7 @@
           <com:Text xml:lang="fr"><![CDATA[Organisation de Coopération et de Développement Economiques]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Total des décaissements d'aide publique au développement (APD) pouvant être considérés comme des aides au  commerce. Le montant est exprimé en dollars des États-Unis d’Amérique au taux de change annuel moyen]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Total des décaissements d&#39;aide publique au développement (APD) pouvant être considérés comme des aides au  commerce. Le montant est exprimé en dollars des États-Unis d’Amérique au taux de change annuel moyen]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Dollars(]]></com:Text>
@@ -81,7 +81,7 @@
           <com:Text xml:lang="fr"><![CDATA[Montant total des aides dédiées au commerce]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l'information statistique (CTIS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Validation interne et par le comité technique de l&#39;information statistique (CTIS)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Les données sont disponibles au niveau national]]></com:Text>

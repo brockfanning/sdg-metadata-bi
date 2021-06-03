@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.197Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.407Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="b34319aa-0672-4cbc-8c79-405505a5ac43">
+  <mes:MetadataSet structureRef="MDS1" setID="ceb4f81c-396f-445c-9fb4-d41b2c950bc6">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[eric.irambona85@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la part du budget de l'Etat allouée à l'Education , Santé et Protection sociale]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la part du budget de l&#39;Etat allouée à l&#39;Education , Santé et Protection sociale]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
@@ -84,25 +84,25 @@
           <com:Text xml:lang="fr"><![CDATA[Les départements Ministériels sont les membres du SSN ayant comme mission de collecter, traiter et diffuser les données de leur secteur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la répartition du budget de l'Etat.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la répartition du budget de l&#39;Etat.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive de toutes lees dépenses de l'Etat]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une collecte exhaustive de toutes lees dépenses de l&#39;Etat]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Budget alloué à l'Education, Santé et Protection Sociale sur le budget  de l'Etat multiplié par 100]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Budget alloué à l&#39;Education, Santé et Protection Sociale sur le budget  de l&#39;Etat multiplié par 100]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les données sont validées à deux niveaux : validation interne et validation au niveau du CTIS avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[Les données peuvent être comparées aux données antérieures]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport sur l'utilisation du Budget]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport sur l&#39;utilisation du Budget]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

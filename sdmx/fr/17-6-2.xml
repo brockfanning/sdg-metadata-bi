@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.328Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.509Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="e147f92e-2925-4bc9-8528-29c001d06159">
+  <mes:MetadataSet structureRef="MDS1" setID="76c103a4-85dc-485a-a685-cc79a50e6b46">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,7 +57,7 @@
           <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l'ARCT]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l&#39;ARCT]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="fr"><![CDATA[68500043]]></com:Text>
@@ -66,7 +66,7 @@
           <com:Text xml:lang="fr"><![CDATA[apollinaire.bigr@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d' Abonnées à une desserte internet fixe à  large bande par 100 habitants]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande par 100 habitants]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Nombre pour 100 habitant]]></com:Text>
@@ -87,13 +87,13 @@
           <com:Text xml:lang="fr"><![CDATA[ARCT]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="fr"><![CDATA[L'ARCT est responsable de la compilation de cet indicateur]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;ARCT est responsable de la compilation de cet indicateur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
           <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d' Abonnées à une desserte internet fixe à  large bande multiplié par 100, le tout divisé par la population total]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande multiplié par 100, le tout divisé par la population total]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>

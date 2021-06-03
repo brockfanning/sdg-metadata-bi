@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.208Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.415Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="fca0bc05-3a6a-4638-86a9-55f5ac5c8588">
+  <mes:MetadataSet structureRef="MDS1" setID="acca0123-d2a9-4fbe-b9e1-0c144aeaf0e1">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -69,7 +69,7 @@
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est la rémunération totale des employés et les transferts sociaux effectués, exprimés en pourcentage du PIB, qui constituent une mesure de la production totale pour une période de référence donnée.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est la rémunération totale des employés et les transferts sociaux effectués, exprimés en pourcentage du PIB, qui constituent une mesure de la production totale pour une période de référence donnée.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
@@ -90,10 +90,10 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion, après validation, des statistiques officielles aidant dans la planification et la prise de décision]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur fournit des informations sur la part relative de la production qui est versée en compensation aux salariés par rapport à la part versée au capital dans le processus de production pour une période de référence donnée]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur fournit des informations sur la part relative de la production qui est versée en compensation aux salariés par rapport à la part versée au capital dans le processus de production pour une période de référence donnée]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La part du travail dans le PIB calculée uniquement sur la base de la rémunération des salariés sous-estime  la proportion du PIB accumulée par rapport à l'emploi total, car elle n'inclut pas le revenu du travail des travailleurs indépendants.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La part du travail dans le PIB calculée uniquement sur la base de la rémunération des salariés sous-estime  la proportion du PIB accumulée par rapport à l&#39;emploi total, car elle n&#39;inclut pas le revenu du travail des travailleurs indépendants.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"><![CDATA[Rémunération totale des employés rapportée au produit intérieur brut , exprimée en pourcentage]]></com:Text>
@@ -102,7 +102,7 @@
           <com:Text xml:lang="fr"><![CDATA[Les données des enquêtes sont validées à deux niveau: validation interne et validation élargie]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L'indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="fr"><![CDATA[ISTEEBU, Enquête sur les conditions de vie des ménages burundais (ECVMB) 2013-2014, Comptes nationaux de 2014]]></com:Text>

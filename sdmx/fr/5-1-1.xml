@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.399Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.583Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="4b4886b2-fd39-4a23-aef0-37d1ae77cde4">
+  <mes:MetadataSet structureRef="MDS1" setID="c522d2d5-916d-4065-a498-290ebcde023a">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -57,13 +57,13 @@
           <com:Text xml:lang="fr"><![CDATA[gahidemu@yahoo.fr]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est l'ensemble des textes et lois votés par le parlement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est l&#39;ensemble des textes et lois votés par le parlement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[Bulletin Officiel du Burundi ( Centre d'études de Documentation Juridiques)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Bulletin Officiel du Burundi ( Centre d&#39;études de Documentation Juridiques)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Consultation du bulletin ou du Site de l'Assemblée et du Sénét]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Consultation du bulletin ou du Site de l&#39;Assemblée et du Sénét]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
@@ -84,10 +84,10 @@
           <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte des textes et lois votés;]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur découle de l'alimentation du site]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur découle de l&#39;alimentation du site]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[C'est le décompte des textes et lois votés par le parlement]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le décompte des textes et lois votés par le parlement]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
@@ -99,7 +99,7 @@
           <com:Text xml:lang="fr"><![CDATA[NA]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Site de l'Assemblée et du Sénat]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Site de l&#39;Assemblée et du Sénat]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>

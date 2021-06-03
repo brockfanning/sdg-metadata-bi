@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.409Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.592Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="1e1b8791-2069-438a-9b16-48b2ad5d38a7">
+  <mes:MetadataSet structureRef="MDS1" setID="3d824a39-4433-423b-8ad1-c900f078b119">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,13 +45,13 @@
           <com:Text xml:lang="fr"><![CDATA[5.a.1.Proportion de la population agricole totale ayant des droits de propriété ou des droits garantis sur des terres agricoles, par sexe; b) proportion de femmes parmi les titulaires de droits de propriété ou de droits garantis sur des terrains agricoles, par types de droit]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le pourcentage  de la population agricole  ayant des droits de propriété ou des droits garantis sur des terres agricoles rapporté à la population totale selon la tranche d'âge considérée.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage  de la population agricole  ayant des droits de propriété ou des droits garantis sur des terres agricoles rapporté à la population totale selon la tranche d&#39;âge considérée.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Population agricole  ayant des droits de propriété ou des droits garantis sur des terres agricoles divisée par  la population totale selon la tranche d'âge considérée, multiplié par 100.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Population agricole  ayant des droits de propriété ou des droits garantis sur des terres agricoles divisée par  la population totale selon la tranche d&#39;âge considérée, multiplié par 100.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="fr"><![CDATA[Non disponible]]></com:Text>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-03T20:53:42.344Z</mes:Prepared>
+    <mes:Prepared>2021-06-03T21:11:33.525Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="d44f3400-3f35-461b-860e-93383b39b964">
+  <mes:MetadataSet structureRef="MDS1" setID="ae5fc6f7-a46a-453d-b23a-896d557b5292">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -45,7 +45,7 @@
           <com:Text xml:lang="fr"><![CDATA[2.a.2 Total des apports publics (aide publique au développement plus autres apports publics) alloués au secteur agricole]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C'est le montant total de l'aide publique au développement alloué au secteur de l'agricuture]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le montant total de l&#39;aide publique au développement alloué au secteur de l&#39;agricuture]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"><![CDATA[Somme des aides publiques]]></com:Text>
