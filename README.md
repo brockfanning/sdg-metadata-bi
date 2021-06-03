@@ -1,6 +1,6 @@
 # SDG Metadata Burundi
 
-Translation of indicator metadata for the Sustainable Development Goals in Mozambique.
+Translation of indicator metadata for the Sustainable Development Goals in Burundi.
 
 [Find more information on this project](https://brock.tips/sdg-metadata-bi/).
 
