@@ -25,7 +25,7 @@ module.exports = function(refresh=false) {
             console.log('WARNING: Multiple series matching indicator ' + indicatorId)
             console.log('-- (using the first one)')
         }
-        return matches[0].indicatorId
+        return matches[0].key
     }
 
     async function convertSdmx() {
