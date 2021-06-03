@@ -3,13 +3,13 @@ minimal_mistakes_skin    : "contrast"
 
 # Site Settings
 locale                   : "en-US"
-title                    : SDG Metadata - Mozambique
+title                    : SDG Metadata - Burundi
 title_separator          : "-"
 subtitle                 : Machine Translation of Indicator Metadata for the Sustainable Development Goals
 description              : Machine Translation of Indicator Metadata for the Sustainable Development Goals
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : /sdg-metadata-mz
-repository               : brockfanning/sdg-metadata-mz
+baseurl                  : /sdg-metadata-bi
+repository               : brockfanning/sdg-metadata-bi
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 
@@ -25,7 +25,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/brockfanning/sdg-metadata-mz
+      url: https://github.com/brockfanning/sdg-metadata-bi
 
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
