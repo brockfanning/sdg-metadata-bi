@@ -4,7 +4,8 @@
 	<message>The DATA_COMP field for indicator 8-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en">[(Real GDP n-real GDP n-1) / real GDP n-1] * 100
+			</language>
 			<language lang="fr">[(PIB réel  n  -PIB réel n-1)/PIB réel n-1]*100
 			</language>
 </languages>
