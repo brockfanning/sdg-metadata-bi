@@ -23,13 +23,7 @@ module.exports = function(refresh=false) {
         indicatorId = indicatorId.replace(/-/g, '.')
         const series = sdgMetadataConvert.descriptorStore.getDescriptor('SERIES')
         const matches = series.options.filter(item => item.indicatorId === indicatorId)
-        if (matches.length === 0) {
-            return false
-        }
-        if (matches.length > 1) {
-            console.log('WARNING: Multiple series matching indicator ' + indicatorId)
-        }
-        return matches[0].key
+        return (matches.length === 0) ? false : matches.map(match => match.key)
     }
 
     async function convertSdmx() {
@@ -43,7 +37,7 @@ module.exports = function(refresh=false) {
                 }
                 const series = getSeriesFromIndicatorId(indicatorId)
                 if (!series) {
-                    //console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
+                    console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
                     continue
                 }
                 const descriptors = {
@@ -57,7 +51,7 @@ module.exports = function(refresh=false) {
                 const targetFile = indicatorId + '.xml'
                 const targetPath = path.join(targetFolder, targetFile)
                 await sdmxOutput.write(metadata, targetPath)
-                //console.log(`Created ${targetPath}.`);
+                console.log(`Created ${targetPath}.`);
             }
         }
     }
