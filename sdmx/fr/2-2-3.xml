@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-05T13:24:15.801Z</mes:Prepared>
+    <mes:Prepared>2021-06-06T02:08:15.873Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,14 +11,14 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ad915384-4bc0-4f42-9eb1-1451420bfa43">
+  <mes:MetadataSet structureRef="MDS1" setID="0411848a-7e51-480c-9cad-69baef9b938d">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_MAT_FTPRPC</com:Value>
+              <com:Value>SH_STA_ANEM</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -36,55 +36,52 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 12. Établir des modes de consommation et de production durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Objectif 2. Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[12.2 D’ici à 2030, parvenir à une gestion durable et à une utilisation rationnelle des ressources naturelles]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2 D’ici à 2030, mettre fin à toutes les formes de malnutrition, y compris en atteignant d’ici à 2025 les objectifs arrêtés à l’échelle internationale relatifs aux retards de croissance et à l’émaciation chez les enfants de moins de 5 ans, et répondre aux besoins nutritionnels des adolescentes, des femmes enceintes ou allaitantes et des personnes âgées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[12.2.1. Taux de croissance démographique]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2.3. Prévalence de l’insuffisance pondérale chez les moins 5 ans]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[Institut de Statistiques et d’Etudes Economiques du Burundi (ISTEEBU)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[(+257)79401937]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="fr"><![CDATA[1156 BUJUMBURA]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle est un indicateur composite et se traduit par un faible poids par rapport à l’âge. Le poids-pour-âge (PAZ) est un indice nutritionnel qui reflète une combinaison des troubles de croissance aigus et chroniques.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[recensement ou les projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Enquêtes nutritionnelles]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021 (Prochaine EDS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[En 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
           <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
@@ -96,25 +93,25 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation nutritionnelle des enfants de moins de 5 ans .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens et dont la grande partie est donné par les partenaires]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[C&#39;est la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle se calcule par un poids pour âge de l’enfant par rapport à une norme ou à une population de référence du même âge.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (Total; Filles; Garçons; 0-11 mois; 12-23 mois; 24-59 mois)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU, Rapport des projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête sur la situation nutritionnelle  au Burundi]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>
@@ -129,6 +126,9 @@
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
@@ -167,14 +167,14 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="c9c01e18-6e8d-4a95-a21a-0129fc7d58e1">
+  <mes:MetadataSet structureRef="MDS1" setID="e6df3ed6-6781-470e-88f5-bcbf15b6c2e8">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_MAT_FTPRPG</com:Value>
+              <com:Value>SH_STA_ANEM_PREG</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -192,55 +192,52 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 12. Établir des modes de consommation et de production durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Objectif 2. Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[12.2 D’ici à 2030, parvenir à une gestion durable et à une utilisation rationnelle des ressources naturelles]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2 D’ici à 2030, mettre fin à toutes les formes de malnutrition, y compris en atteignant d’ici à 2025 les objectifs arrêtés à l’échelle internationale relatifs aux retards de croissance et à l’émaciation chez les enfants de moins de 5 ans, et répondre aux besoins nutritionnels des adolescentes, des femmes enceintes ou allaitantes et des personnes âgées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[12.2.1. Taux de croissance démographique]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2.3. Prévalence de l’insuffisance pondérale chez les moins 5 ans]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[Institut de Statistiques et d’Etudes Economiques du Burundi (ISTEEBU)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[(+257)79401937]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="fr"><![CDATA[1156 BUJUMBURA]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle est un indicateur composite et se traduit par un faible poids par rapport à l’âge. Le poids-pour-âge (PAZ) est un indice nutritionnel qui reflète une combinaison des troubles de croissance aigus et chroniques.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[recensement ou les projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Enquêtes nutritionnelles]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021 (Prochaine EDS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[En 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
           <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
@@ -252,25 +249,25 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation nutritionnelle des enfants de moins de 5 ans .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens et dont la grande partie est donné par les partenaires]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[C&#39;est la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle se calcule par un poids pour âge de l’enfant par rapport à une norme ou à une population de référence du même âge.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (Total; Filles; Garçons; 0-11 mois; 12-23 mois; 24-59 mois)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU, Rapport des projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête sur la situation nutritionnelle  au Burundi]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>
@@ -285,6 +282,9 @@
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
@@ -323,14 +323,14 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="98b09c0e-b253-45ff-b9c1-79aac2178e7b">
+  <mes:MetadataSet structureRef="MDS1" setID="d3b26730-50ca-4d0a-a224-81f633d7cbeb">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_MAT_FTPRTN</com:Value>
+              <com:Value>SH_STA_ANEM_NPRG</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -348,55 +348,52 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 12. Établir des modes de consommation et de production durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Objectif 2. Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[12.2 D’ici à 2030, parvenir à une gestion durable et à une utilisation rationnelle des ressources naturelles]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2 D’ici à 2030, mettre fin à toutes les formes de malnutrition, y compris en atteignant d’ici à 2025 les objectifs arrêtés à l’échelle internationale relatifs aux retards de croissance et à l’émaciation chez les enfants de moins de 5 ans, et répondre aux besoins nutritionnels des adolescentes, des femmes enceintes ou allaitantes et des personnes âgées]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[12.2.1. Taux de croissance démographique]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2.2.3. Prévalence de l’insuffisance pondérale chez les moins 5 ans]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[Institut de Statistiques et d’Etudes Economiques du Burundi (ISTEEBU)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="fr"><![CDATA[NDAYISENGA Modeste]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="fr"><![CDATA[Etudes et statistique sociale et suivi de la pauvreté(ESSSP)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Service Etudes et Statistiques Sociales et Suivi de la Pauvreté, Ponit focal ODD]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[Chef de service  ESSSP]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Chef de Service et Point focal]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[(+257)79401937]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="fr"><![CDATA[1156 BUJUMBURA]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[79401937]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="fr"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle est un indicateur composite et se traduit par un faible poids par rapport à l’âge. Le poids-pour-âge (PAZ) est un indice nutritionnel qui reflète une combinaison des troubles de croissance aigus et chroniques.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[recensement ou les projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Enquêtes nutritionnelles]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Les données sont collectées à partir des enquêtes auprès des ménages à l’aide du questionnaire « ménage »]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2021 (Prochaine EDS)]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La date probable de la prochaine collecte sera 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="fr"><![CDATA[En 2022]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[En 2020]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
           <com:Text xml:lang="fr"><![CDATA[ISTEEBU]]></com:Text>
@@ -408,25 +405,25 @@
           <com:Text xml:lang="fr"><![CDATA[L’ISTEEBU est l’organe reconnu par le gouvernement burundais pour la collecte, le traitement et la diffusion des statistiques officielles aidant dans la planification et la prise de décision.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant car il met en evidence la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L’indicateur est pertinent car il rend compte de la situation nutritionnelle des enfants de moins de 5 ans .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens. L’indicateur ne pas être calculé par sexe.]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[La mise à jour de l’indicateur nécessite une enquête auprès des ménages qui exige beaucoup de moyens et dont la grande partie est donné par les partenaires]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[C&#39;est la différence entre le taux brut de natalité et le taux brut de mortalité. Il mesure l&#39;augmentation d&#39;une population au cours d&#39;une période donnée du fait uniquement des naissances et des décès]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Elle se calcule par un poids pour âge de l’enfant par rapport à une norme ou à une population de référence du même âge.]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[Les résultats de l’enquête sont validés à deux niveaux : validation technique et validation officielle avant la publication]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national, province, Milieu de résidence (Total; Filles; Garçons; 0-11 mois; 12-23 mois; 24-59 mois)]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[ISTEEBU, Rapport des projections démographiques]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Rapport de l&#39;Enquête sur la situation nutritionnelle  au Burundi]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>
@@ -441,6 +438,9 @@
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-05T13:24:15.935Z</mes:Prepared>
+    <mes:Prepared>2021-06-06T02:08:15.857Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="3e90c83f-4958-43a9-9673-a714756a93bc">
+  <mes:MetadataSet structureRef="MDS1" setID="e5955c46-facc-424c-8736-8d5c66783936">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -42,37 +42,28 @@
           <com:Text xml:lang="fr"><![CDATA[17.6 Renforcer l’accès à la science, à la technologie et à l’innovation et la coopération Nord-Sud et Sud-Sud et la coopération triangulaire régionale et internationale dans ces domaines et améliorer le partage des savoirs selon des modalités arrêtées d’un commun accord, notamment en coordonnant mieux les mécanismes existants, en particulier au niveau des organismes des Nations Unies, et dans le cadre d’un mécanisme mondial de facilitation des technologies]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[17.6.2 Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[17.6.1 Nombre d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[ARCT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="fr"><![CDATA[BIGIRIMANA Apollinaire]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Ministère  des affaires Etrangères]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l&#39;ARCT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[68500043]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="fr"><![CDATA[apollinaire.bigr@gmail.com]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministère]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande par 100 habitants]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Nombre pour 100 habitant]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[ARCT, rapport annuel sur les indicateurs TIC 2016]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Ministère des affaires étrangères, rapport annuel 2016]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -84,16 +75,16 @@
           <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="fr"><![CDATA[ARCT]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Sercice statistique du ministère]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;ARCT est responsable de la compilation de cet indicateur]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Le Ministère est responsable de la compilation de cet indicateur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
           <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande multiplié par 100, le tout divisé par la population total]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Décompte d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>
@@ -119,7 +110,16 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
@@ -167,7 +167,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="b0cbdbd4-302b-4ae0-a888-692e23a1cfee">
+  <mes:MetadataSet structureRef="MDS1" setID="8de06a96-c4cf-458d-94f9-7b946e233d47">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -198,37 +198,28 @@
           <com:Text xml:lang="fr"><![CDATA[17.6 Renforcer l’accès à la science, à la technologie et à l’innovation et la coopération Nord-Sud et Sud-Sud et la coopération triangulaire régionale et internationale dans ces domaines et améliorer le partage des savoirs selon des modalités arrêtées d’un commun accord, notamment en coordonnant mieux les mécanismes existants, en particulier au niveau des organismes des Nations Unies, et dans le cadre d’un mécanisme mondial de facilitation des technologies]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[17.6.2 Abonnements à une connexion à Internet à haut débit fixe pour 100 habitants, par vitesse de connexion]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[17.6.1 Nombre d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[ARCT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="fr"><![CDATA[BIGIRIMANA Apollinaire]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Ministère  des affaires Etrangères]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
           <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein de l&#39;ARCT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[68500043]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="fr"><![CDATA[apollinaire.bigr@gmail.com]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[point focal des ODD au sein du Ministère]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande par 100 habitants]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Nombre pour 100 habitant]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Nombre]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[ARCT, rapport annuel sur les indicateurs TIC 2016]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Ministère des affaires étrangères, rapport annuel 2016]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="fr"><![CDATA[Données administratives]]></com:Text>
@@ -240,16 +231,16 @@
           <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="fr"><![CDATA[ARCT]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Sercice statistique du ministère]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;ARCT est responsable de la compilation de cet indicateur]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Le Ministère est responsable de la compilation de cet indicateur]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
           <com:Text xml:lang="fr"><![CDATA[Cet indicateur est pertinant .]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Nombre d&#39; Abonnées à une desserte internet fixe à  large bande multiplié par 100, le tout divisé par la population total]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Décompte d’accords et de programmes de coopération scientifique et technologique entre pays, par type de coopération]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>
@@ -275,7 +266,16 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">

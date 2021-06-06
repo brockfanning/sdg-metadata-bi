@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-05T13:24:15.796Z</mes:Prepared>
+    <mes:Prepared>2021-06-06T02:08:15.926Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,14 +11,14 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a28f3066-24f7-4039-a941-33ef9a406edc">
+  <mes:MetadataSet structureRef="MDS1" setID="0f42d194-989e-4201-943d-d505ab72745c">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>DC_CST_EFICP</com:Value>
+              <com:Value>SH_HLF_EMED</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -36,19 +36,25 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 11. Faire en sorte que les villes et les établissements humains soient ouverts à tous, sûrs, résilients et durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Objectif 3. Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à tout âge]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[11.c Aider les pays les moins avancés, y compris par une assistance financière et technique, à construire des bâtiments durables et résilients en utilisant des matériaux locaux]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[3.b Appuyer la recherche et le développement de vaccins et de médicaments contre les maladies, transmissibles ou non, qui touchent principalement les habitants des pays en développement, donner accès, à un coût abordable, aux médicaments et vaccins essentiels, conformément à la Déclaration de Doha sur l’Accord sur les aspects des droits de propriété intellectuelle qui touchent au commerce (ADPIC) et la santé publique, qui réaffirme le droit qu’ont les pays en développement de tirer pleinement parti des dispositions de cet accord qui ménagent une flexibilité lorsqu’il s’agit de protéger la santé publique et, en particulier, d’assurer l’accès universel aux médicaments]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[11.c.1 Proportion de l’assistance financière allouée aux pays les moins avancés qui est consacrée à la construction de bâtiments durables, résilients et économes en ressources et à la remise à niveau d’anciens bâtiments, en utilisant des matériaux locaux]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[3.b.3.Proportion des établissements de santé disposant constamment d’un ensemble de médicaments essentiels à un coût abordable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[catégorie III]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage des établissements de santé disposant constamment d’un ensemble de médicaments essentiels à un coût abordable par rapport à tous les établissements de santé]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="fr"><![CDATA[%]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="fr"><![CDATA[Rapport entre les établissements de santé disposant constamment d’un ensemble de médicaments essentiels à un coût abordable et tous les établissements de santé, multiplié par 100;]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[Catégorie III]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Non disponible]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>
@@ -92,9 +98,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
@@ -129,9 +132,6 @@
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">

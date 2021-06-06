@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-05T13:24:15.814Z</mes:Prepared>
+    <mes:Prepared>2021-06-06T02:08:16.036Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,14 +11,14 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="80bda012-a34a-4773-aff6-fb68266afd9f">
+  <mes:MetadataSet structureRef="MDS1" setID="65458c11-22bb-4bb1-86aa-289cfb21a942">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>DC_SCP_RANDN</com:Value>
+              <com:Value>EG_EGY_RNEW</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -36,25 +36,16 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 12. Établir des modes de consommation et de production durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Objectif 7. Garantir l’accès de tous à des services énergétiques fiables, durables et modernes, à un coût abordable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[12.a Aider les pays en développement à se doter des moyens scientifiques et technologiques qui leur permettent de s’orienter vers des modes de consommation et de production plus durables]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[7.b D’ici à 2030, développer l’infrastructure et améliorer la technologie afin de fournir des services énergétiques modernes et durables à tous les habitants des pays en développement, en particulier des pays les moins avancés, des petits États insulaires en développement et des pays en développement sans littoral, dans le respect des programmes d’aide qui les concernent]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[12.a.1 Montant de l’aide apportée aux pays en développement au titre d’activités de recherche-développement consacrées aux modes de consommation et de production durables et aux technologies écologiquement rationnelles]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[catégorie III]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Détermination du montant de l’aide apportée aux pays en développement au titre d’activités de recherche-développement consacrées aux modes de consommation et de production durables et aux technologies écologiquement rationnelles]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[7.b.1 Investissements dans l’efficacité énergétique en proportion du PIB et montant de l’investissement étranger direct sous la forme de transferts financiers destinés à l’infrastructure et à la technologie nécessaires aux services de développement durable]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[Non Disponible]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
+          <com:Text xml:lang="fr"><![CDATA[Non disponible]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="fr"/>
@@ -98,6 +89,9 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
@@ -137,6 +131,9 @@
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
@@ -159,6 +156,9 @@
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="fr"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="fr"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
