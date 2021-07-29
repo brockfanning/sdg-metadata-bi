@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-28T01:26:01.654Z</mes:Prepared>
+    <mes:Prepared>2021-07-29T01:22:29.867Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="25d336af-645c-4359-8af6-ea52f696ba6e">
+  <mes:MetadataSet structureRef="MDS1" setID="8c44f908-72cc-4ae5-be26-3ced7e4dd006">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -167,7 +167,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="30ee506a-8a35-431d-9bf1-b17ff83c38a8">
+  <mes:MetadataSet structureRef="MDS1" setID="d3de3ea3-4a44-4a3a-80b7-9af3515584e9">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -323,7 +323,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="7d5fb6d3-52f9-454a-b44b-12cea27c84e3">
+  <mes:MetadataSet structureRef="MDS1" setID="59ef4afb-e2d2-4dec-bdc0-d528b538b2d6">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -479,7 +479,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="ba93392a-5033-4b13-a2f4-15362a125eb4">
+  <mes:MetadataSet structureRef="MDS1" setID="bb2d7a65-5553-4fd4-a92d-6c701be43394">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -635,7 +635,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="1c525c7e-f51d-4218-b450-e8f6e08528d8">
+  <mes:MetadataSet structureRef="MDS1" setID="c8fba0fb-d16a-43d6-bb05-7da597944873">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -791,7 +791,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="b1afef01-a20a-4705-a68b-bd443c456a37">
+  <mes:MetadataSet structureRef="MDS1" setID="389086b8-4623-428c-9574-795f36b50499">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -947,7 +947,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="7a18dab2-de90-40bd-8e00-5e648b9bdf78">
+  <mes:MetadataSet structureRef="MDS1" setID="ebad231a-c0ce-4af6-b79d-0bb7445aeb12">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1103,7 +1103,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="56f9adbf-4b5d-4d88-8a60-33d5bc2930e9">
+  <mes:MetadataSet structureRef="MDS1" setID="d408f79e-2495-4f29-8a1a-dc6bb60cff50">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1259,7 +1259,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="4f6cc155-ab3a-4b3a-ab0f-ce5a37c60029">
+  <mes:MetadataSet structureRef="MDS1" setID="78da495e-0e5f-4c4d-a593-25656f724159">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -1415,14 +1415,14 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="4cb83a53-2b18-44eb-a115-67a89a72dc5f">
+  <mes:MetadataSet structureRef="MDS1" setID="1cd0119f-3090-4001-95c1-6f87cbf9df35">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYPCAP</com:Value>
+              <com:Value>EN_TWT_GENV</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1571,14 +1571,14 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="08e1da8a-2489-4c10-9712-cfb86abdd5ed">
+  <mes:MetadataSet structureRef="MDS1" setID="909a6fbd-0b42-4e74-9d63-c2462aa6e959">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYR</com:Value>
+              <com:Value>EN_HAZ_EXP</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1727,14 +1727,14 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="670c5c0d-2685-4b6d-96cc-355d5ace5170">
+  <mes:MetadataSet structureRef="MDS1" setID="e4214d1a-3080-4f0e-ae9b-fe33c6dea5cc">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>EN_EWT_RCYV</com:Value>
+              <com:Value>EN_HAZ_IMP</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -1883,7 +1883,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="062f3268-8ad1-4aad-86f9-12b2a7d58cc6">
+  <mes:MetadataSet structureRef="MDS1" setID="95ef83d1-73c9-40d2-8e45-7d1a658d6749">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2039,7 +2039,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="ab448627-8812-4c78-9447-049ab6513705">
+  <mes:MetadataSet structureRef="MDS1" setID="0dcf3b83-2216-4fbf-b707-ea5f5fe001a7">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2195,7 +2195,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="50798b40-4dd5-400a-9739-1c740947cd91">
+  <mes:MetadataSet structureRef="MDS1" setID="5d2fd843-a088-4e35-aeff-f1f2630847b5">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2351,7 +2351,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="1e4510ff-5034-461f-a6c0-5577865bda85">
+  <mes:MetadataSet structureRef="MDS1" setID="4c57d245-7444-4eb5-affc-c894b78eaa3e">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2507,7 +2507,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="bb17f9b9-2bf5-419c-8ae1-b9187b0adb16">
+  <mes:MetadataSet structureRef="MDS1" setID="7b5a2629-c4ae-45f8-b02a-b0ec413ac259">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2663,7 +2663,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="c20f6285-92c6-4c7e-8b34-05f832e7a37a">
+  <mes:MetadataSet structureRef="MDS1" setID="020182a6-266f-4a70-9f06-093bc955fbc3">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -2671,162 +2671,6 @@
           <gen:DataKey>
             <com:KeyValue id="SERIES">
               <com:Value>EN_EWT_COLLR</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REPORTING_TYPE">
-              <com:Value>N</com:Value>
-            </com:KeyValue>
-            <com:KeyValue id="REF_AREA">
-              <com:Value>BI</com:Value>
-            </com:KeyValue>
-          </gen:DataKey>
-        </gen:ReferenceValue>
-        <gen:ReferenceValue id="Dataflow">
-          <gen:ObjectReference>
-            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
-          </gen:ObjectReference>
-        </gen:ReferenceValue>
-      </gen:Target>
-      <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="fr"><![CDATA[Objectif 12. Établir des modes de consommation et de production durables]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="fr"><![CDATA[12.4 D’ici à 2020, parvenir à une gestion écologiquement rationnelle des produits chimiques et de tous les déchets tout au long de leur cycle de vie, conformément aux principes directeurs arrêtés à l’échelle internationale, et réduire nettement leur déversement dans l’air, l’eau et le sol, afin de minimiser leurs effets négatifs sur la santé et l’environnement]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="fr"><![CDATA[12.4.2. Pourcentage des sites de traitement identifiés sont fonctionnels avant 2018 et le maximum avant 2025]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="fr"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="fr"><![CDATA[Ministère des Transports,Travaux Publics,Equipement et Aménagement du Territoire (MTTPEAT)]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="fr"><![CDATA[Mr KIGABO Marijani  SAIDI]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="fr"><![CDATA[Service statistique]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="fr"><![CDATA[Point focal de la production des ODD du Ministère]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="fr"><![CDATA[(+257) 75779201]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="fr"><![CDATA[marisaidi212@gmail.com]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="fr"><![CDATA[C&#39;est le pourcentage des sites de traitement des déchets fonctionnel par rapport à tous les sites de traitement des déchets existants]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="fr"><![CDATA[Pourcentage]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur provient des données administratives]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre les sites de traitement des déchets fonctionnel  et tous les sites de traitement des déchets existants]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="fr"><![CDATA[annuelle]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="fr"><![CDATA[Annuelle]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="fr"><![CDATA[SETEMU]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="fr"><![CDATA[Service Statistique du MTTPEAT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="fr"><![CDATA[SETEMU est l’organe reconnu par le gouvernement burundais comme  Services technique municipaux]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="fr"><![CDATA[Cet indicateur est  pertinent car il met en evidence  le pourcentage des sites de traitement des déchets fonctionnel par rapport à tous les sites de traitement des déchets existants]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="fr"><![CDATA[La mise à jour est annuelle]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="fr"><![CDATA[Rapport entre les sites de traitement des déchets fonctionnel  et tous les sites de traitement des déchets existants]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="fr"><![CDATA[Annuelle]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="fr"><![CDATA[L&#39;indicateur est disponible au niveau national]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="fr"><![CDATA[L’indicateur peut être comparé aux autres indicateurs du même type au niveau régional et international]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="fr"><![CDATA[Rapport annuel du MTTPEAT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_CUSTODIAN_AGENCIES">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ADJUSTMENT">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="IMPUTATION">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REG_AGG">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="fr"/>
-        </gen:ReportedAttribute>
-      </gen:AttributeSet>
-    </gen:Report>
-  </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="24cd414a-5f9d-449c-b3b5-54db315abf1c">
-    <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
-    <gen:Report id="SDG_META_RPT">
-      <gen:Target id="KEY_TARGET">
-        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
-          <gen:DataKey>
-            <com:KeyValue id="SERIES">
-              <com:Value>EN_MWT_RCYV</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
