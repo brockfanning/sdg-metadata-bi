@@ -1570,6 +1570,61 @@
 </fields>
 
 						</indicator>
+						<indicator id="11-b-2">
+								<fields>
+									<field id="SDG_GOAL">Goal 11. Make cities and human settlements inclusive, safe, resilient and sustainable
+									</field>
+									<field id="SDG_TARGET">11.b By 2020, significantly increase the number of cities and human settlements that adopt and implement integrated policies and action plans for the inclusion of all and the rational use of resources climate change adaptation and mitigation and disaster resilience, and develop and implement, in line with the Sendai Framework for Disaster Risk Reduction (2015-2030), comprehensive management disaster risk at all levels
+									</field>
+									<field id="SDG_INDICATOR">11.b.2 Proportion of local administrations that have adopted and put in place local disaster risk reduction strategies, in accordance with the strategies followed at the national level
+									</field>
+									<field id="STAT_CONC_DEF">It is the ratio between the local administrations having adopted and implemented local disaster risk reduction strategies, in accordance with the strategies followed at the national level and the total number of local administrations
+									</field>
+									<field id="UNIT_MEASURE">Percentage
+									</field>
+									<field id="DATA_COMP">Divide the number of local governments that have adopted and implemented local disaster risk reduction strategies, in accordance with nationally followed strategies by the total number of local governments, multiply by 100
+									</field>
+									<field id="COVERAGE">Not available
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="META_LAST_UPDATE"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_ORGANISATION"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="SOURCE_TYPE"/>
+									<field id="COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="REL_CAL_POLICY"/>
+									<field id="DATA_SOURCE"/>
+									<field id="COMPILING_ORG"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="RATIONALE"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+									<field id="COMPARABILITY"/>
+									<field id="OTHER_DOC"/>
+</fields>
+
+						</indicator>
 						<indicator id="12-2-1">
 								<fields>
 									<field id="SDG_GOAL">Objective 12. Establish sustainable consumption and production patterns
@@ -1717,6 +1772,61 @@
 									<field id="QUALITY_MGMNT"/>
 									<field id="QUALITY_ASSURE"/>
 									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="12-4-1">
+								<fields>
+									<field id="SDG_GOAL">Objective 12. Establish sustainable consumption and production patterns
+									</field>
+									<field id="SDG_TARGET">12.4 By 2020, achieve environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with internationally agreed guidelines, and significantly reduce their release to air , water and soil, in order to minimize their negative effects on health and the environment
+									</field>
+									<field id="SDG_INDICATOR">12.4.1. Production and transmission of an annual report
+									</field>
+									<field id="STAT_CONC_DEF">Number of reports produced and transmitted on the implementation of international multilateral environmental agreements relating to chemicals and other hazardous wastes
+									</field>
+									<field id="UNIT_MEASURE">Number
+									</field>
+									<field id="DATA_COMP">Number of reports produced and transmitted on the implementation of international multilateral environmental agreements relating to chemicals and other hazardous wastes
+									</field>
+									<field id="COVERAGE">Not available
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="META_LAST_UPDATE"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_ORGANISATION"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="SOURCE_TYPE"/>
+									<field id="COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="REL_CAL_POLICY"/>
+									<field id="DATA_SOURCE"/>
+									<field id="COMPILING_ORG"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="RATIONALE"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+									<field id="COMPARABILITY"/>
+									<field id="OTHER_DOC"/>
 </fields>
 
 						</indicator>
@@ -10059,54 +10169,6 @@ from donor government agencies, at all levels, to developing countries (“bilat
 </fields>
 
 						</indicator>
-						<indicator id="11-b-2">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="11-c-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -10156,54 +10218,6 @@ from donor government agencies, at all levels, to developing countries (“bilat
 
 						</indicator>
 						<indicator id="12-1-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="12-4-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
