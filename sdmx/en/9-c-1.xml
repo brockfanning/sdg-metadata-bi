@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:18:13.722Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:18:47.918Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="7530b0eb-9896-4068-8495-8ed159835ade">
+  <mes:MetadataSet structureRef="MDS1" setID="e7ac2a1e-2c5b-4d27-80fe-9f6afbd5c933">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,22 +35,76 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[Objective 9. Build a resilient infrastructure, promote sustainable industrialization that benefits everyone and encourage innovation]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technologies and ensure that all inhabitants of the least developed countries have access to the Internet at an affordable cost by 2020]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of the population with access to a mobile network, by type of technology]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[Communication and Telecommunications Regulatory Agency]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[BIGIRIMANA appollinaire]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ARCT statistical service]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[SDG focal point at ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[apollinaire.bigi@gmail.com]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of inhabitants living within range of a mobile cellular signal, whether or not they are subscribers or users of mobile phones.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[data collected daily]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[every year]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[annually]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[The statistical service and planning of state structures are responsible for compiling data from their state structures for the calculation of indicators at the national level.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[the indicator is relevant because it reflects the percentage of subscription]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[Completeness in the collection of data related to this indicator is difficult because several people can share the same phone]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[This indicator is calculated by dividing the number of inhabitants within range of a mobile cellular signal by the total population and multiplying by 100.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[Internal validation and by the technical committee for statistical information (CTIS)]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Data are available at national level and by network (Mobile networks; Internet)]]></com:Text>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
@@ -62,31 +116,13 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
@@ -98,40 +134,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -155,9 +158,6 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -167,7 +167,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="d5ecce68-b671-4730-af83-0c4ef5f429a2">
+  <mes:MetadataSet structureRef="MDS1" setID="b5f3e798-8324-46cb-80fe-808b5f0232fe">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,22 +191,76 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[Objective 9. Build a resilient infrastructure, promote sustainable industrialization that benefits everyone and encourage innovation]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technologies and ensure that all inhabitants of the least developed countries have access to the Internet at an affordable cost by 2020]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of the population with access to a mobile network, by type of technology]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[Communication and Telecommunications Regulatory Agency]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[BIGIRIMANA appollinaire]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ARCT statistical service]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[SDG focal point at ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[apollinaire.bigi@gmail.com]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of inhabitants living within range of a mobile cellular signal, whether or not they are subscribers or users of mobile phones.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[data collected daily]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[every year]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[annually]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[The statistical service and planning of state structures are responsible for compiling data from their state structures for the calculation of indicators at the national level.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[the indicator is relevant because it reflects the percentage of subscription]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[Completeness in the collection of data related to this indicator is difficult because several people can share the same phone]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[This indicator is calculated by dividing the number of inhabitants within range of a mobile cellular signal by the total population and multiplying by 100.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[Internal validation and by the technical committee for statistical information (CTIS)]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Data are available at national level and by network (Mobile networks; Internet)]]></com:Text>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
@@ -218,31 +272,13 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
@@ -254,40 +290,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -311,9 +314,6 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -323,7 +323,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="d06eb7fd-24a6-458e-9c8f-94f78640db5f">
+  <mes:MetadataSet structureRef="MDS1" setID="a558c030-414b-4437-a681-cd4bfef3069d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -347,22 +347,76 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[Objective 9. Build a resilient infrastructure, promote sustainable industrialization that benefits everyone and encourage innovation]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[9.c Significantly increase access to information and communications technologies and ensure that all inhabitants of the least developed countries have access to the Internet at an affordable cost by 2020]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[9.c.1 Proportion of the population with access to a mobile network, by type of technology]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[Communication and Telecommunications Regulatory Agency]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[BIGIRIMANA appollinaire]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ARCT statistical service]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[SDG focal point at ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[apollinaire.bigi@gmail.com]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of inhabitants living within range of a mobile cellular signal, whether or not they are subscribers or users of mobile phones.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[data collected daily]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[every year]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[annually]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ARCT]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[The statistical service and planning of state structures are responsible for compiling data from their state structures for the calculation of indicators at the national level.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[the indicator is relevant because it reflects the percentage of subscription]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[Completeness in the collection of data related to this indicator is difficult because several people can share the same phone]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[This indicator is calculated by dividing the number of inhabitants within range of a mobile cellular signal by the total population and multiplying by 100.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[Internal validation and by the technical committee for statistical information (CTIS)]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Data are available at national level and by network (Mobile networks; Internet)]]></com:Text>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
@@ -374,31 +428,13 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
@@ -410,40 +446,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -465,9 +468,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">

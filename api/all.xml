@@ -8866,6 +8866,76 @@ from donor government agencies, at all levels, to developing countries (“bilat
 </fields>
 
 						</indicator>
+						<indicator id="9-c-1">
+								<fields>
+									<field id="SDG_GOAL">Objective 9. Build a resilient infrastructure, promote sustainable industrialization that benefits everyone and encourage innovation
+									</field>
+									<field id="SDG_TARGET">9.c Significantly increase access to information and communications technologies and ensure that all inhabitants of the least developed countries have access to the Internet at an affordable cost by 2020
+									</field>
+									<field id="SDG_INDICATOR">9.c.1 Proportion of the population with access to a mobile network, by type of technology
+									</field>
+									<field id="META_LAST_UPDATE">5/1/2020 12:00:00 AM
+									</field>
+									<field id="CONTACT_ORGANISATION">Communication and Telecommunications Regulatory Agency
+									</field>
+									<field id="CONTACT_NAME">BIGIRIMANA appollinaire
+									</field>
+									<field id="ORGANISATION_UNIT">ARCT statistical service
+									</field>
+									<field id="CONTACT_FUNCT">SDG focal point at ARCT
+									</field>
+									<field id="CONTACT_EMAIL">apollinaire.bigi@gmail.com
+									</field>
+									<field id="STAT_CONC_DEF">It is the percentage of inhabitants living within range of a mobile cellular signal, whether or not they are subscribers or users of mobile phones.
+									</field>
+									<field id="SOURCE_TYPE">Administrative data
+									</field>
+									<field id="COLL_METHOD">data collected daily
+									</field>
+									<field id="FREQ_COLL">every year
+									</field>
+									<field id="REL_CAL_POLICY">annually
+									</field>
+									<field id="DATA_SOURCE">ARCT
+									</field>
+									<field id="COMPILING_ORG">ARCT
+									</field>
+									<field id="INST_MANDATE">The statistical service and planning of state structures are responsible for compiling data from their state structures for the calculation of indicators at the national level.
+									</field>
+									<field id="RATIONALE">the indicator is relevant because it reflects the percentage of subscription
+									</field>
+									<field id="REC_USE_LIM">Completeness in the collection of data related to this indicator is difficult because several people can share the same phone
+									</field>
+									<field id="DATA_COMP">This indicator is calculated by dividing the number of inhabitants within range of a mobile cellular signal by the total population and multiplying by 100.
+									</field>
+									<field id="DATA_VALIDATION">Internal validation and by the technical committee for statistical information (CTIS)
+									</field>
+									<field id="COVERAGE">Data are available at national level and by network (Mobile networks; Internet)
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+									<field id="COMPARABILITY"/>
+									<field id="OTHER_DOC"/>
+</fields>
+
+						</indicator>
 						<indicator id="10-2-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -12803,54 +12873,6 @@ from donor government agencies, at all levels, to developing countries (“bilat
 
 						</indicator>
 						<indicator id="9-b-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="9-c-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
