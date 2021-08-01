@@ -450,6 +450,77 @@
 </fields>
 
 						</indicator>
+						<indicator id="1-4-4">
+								<fields>
+									<field id="SDG_GOAL">Goal 1. Eradicate poverty in all its forms and everywhere
+									</field>
+									<field id="SDG_TARGET">1.4 By 2030, ensure that all men and women, especially the poor and vulnerable, have equal rights to economic resources and have access to basic services, land ownership, control over land and other forms of property, inheritance, natural resources and new technologies and financial services tailored to their needs, including microfinance
+									</field>
+									<field id="SDG_INDICATOR">1.4.4. Gross enrollment rate in basic school
+									</field>
+									<field id="CONTACT_ORGANISATION">MEFTP
+									</field>
+									<field id="CONTACT_NAME">BARANKIGA Eugenie
+									</field>
+									<field id="CONTACT_PHONE">69126765
+									</field>
+									<field id="CONTACT_EMAIL">eugenibar2017@gmail.com
+									</field>
+									<field id="STAT_CONC_DEF">Number of children at basic level (F1, F2, F3 and F4) out of the number of children aged 7 to 15)
+									</field>
+									<field id="UNIT_MEASURE">%
+									</field>
+									<field id="SOURCE_TYPE">Bureau of Educational Planning and Statistics, Statistical Yearbook
+									</field>
+									<field id="COLL_METHOD">Data are collected from surveys of schools using the Questionnaire
+									</field>
+									<field id="FREQ_COLL">Collection is done annually
+									</field>
+									<field id="REL_CAL_POLICY">Every year
+									</field>
+									<field id="DATA_SOURCE">MEFTP
+									</field>
+									<field id="COMPILING_ORG">MEFTP
+									</field>
+									<field id="INST_MANDATE">The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.
+									</field>
+									<field id="RATIONALE">The indicator is relevant because it reflects the educational situation in Burundi.
+									</field>
+									<field id="REC_USE_LIM">Updating the indicator requires a survey of schools in the territory of Burundi. The reluctance is noted for private establishments.
+									</field>
+									<field id="DATA_COMP">Ratio of the number of children at the basic level (F1, F2, F3 and F4) to the number of children aged 7 to 15 multiplied by 100
+									</field>
+									<field id="DATA_VALIDATION">The results of the survey are validated at two levels: internal validation and validation at the CTIS level before publication
+									</field>
+									<field id="COVERAGE">The indicator is available at national level and by sex. (Total; Girls; Boys)
+									</field>
+									<field id="COMPARABILITY">The indicator can be compared to other indicators of the same type at regional and international level
+									</field>
+									<field id="OTHER_DOC">Education Statistics Yearbook
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="META_LAST_UPDATE"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="1-4-5">
 								<fields>
 									<field id="SDG_GOAL">Goal 1. Eradicate poverty in all its forms and everywhere
@@ -949,6 +1020,77 @@
 									<field id="SRC_TYPE_COLL_METHOD"/>
 									<field id="FREQ_COLL"/>
 									<field id="REL_CAL_POLICY"/>
+									<field id="OTHER_METHOD"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+									<field id="COMPARABILITY"/>
+</fields>
+
+						</indicator>
+						<indicator id="10-b-1">
+								<fields>
+									<field id="SDG_GOAL">Goal 10. Reduce inequalities within and across countries
+									</field>
+									<field id="SDG_TARGET">10.b Stimulate official development assistance and financial flows, including foreign direct investment, to states most in need, in particular least developed countries, African countries, small states developing islanders and landlocked developing countries, in accordance with their national plans and programs
+									</field>
+									<field id="SDG_INDICATOR">10.b.1 Total amount of resources allocated to development, by recipient country and donor and type of contribution (official development assistance, foreign direct investment and others) (in millions of USD)
+									</field>
+									<field id="META_LAST_UPDATE">5/1/2020 12:00:00 AM
+									</field>
+									<field id="CONTACT_ORGANISATION">Organisation for Economic Co-operation and Development
+									</field>
+									<field id="CONTACT_NAME">Emmanuel NIYONKURU
+									</field>
+									<field id="ORGANISATION_UNIT">statistical service of the Ministry of Trade, Industry and Tourism
+									</field>
+									<field id="CONTACT_FUNCT">SDG focal point at MCIT
+									</field>
+									<field id="CONTACT_PHONE">(+257) 72204683
+									</field>
+									<field id="CONTACT_EMAIL">emmanuelniyonkuru20@yahoo.com
+									</field>
+									<field id="STAT_CONC_DEF">Total amount of resources allocated to development, by recipient and donor country and type of contribution include official development assistance, other official flows and private flows.
+									</field>
+									<field id="SOURCE_TYPE">Administrative data
+									</field>
+									<field id="COLL_METHOD">data collected daily
+									</field>
+									<field id="FREQ_COLL">every year
+									</field>
+									<field id="REL_CAL_POLICY">annually
+									</field>
+									<field id="DATA_SOURCE">OECD
+									</field>
+									<field id="INST_MANDATE">The statistics and planning departments of the ministries are responsible for compiling data from their ministries for the calculation of indicators at the national level.
+									</field>
+									<field id="RATIONALE">The indicator is relevant because it reports it quantifies the overall spending that donors provide to developing countries.
+									</field>
+									<field id="REC_USE_LIM">Completeness in data collection is difficult to achieve
+									</field>
+									<field id="DATA_COMP">The sum of official and private flows from all donors to developing countries.
+									</field>
+									<field id="DATA_VALIDATION">Internal validation and by the technical committee for statistical information (CTIS)
+									</field>
+									<field id="COVERAGE">Data are available at national level
+									</field>
+									<field id="OTHER_DOC">OECD report
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="COMPILING_ORG"/>
 									<field id="OTHER_METHOD"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -3231,6 +3373,78 @@
 </fields>
 
 						</indicator>
+						<indicator id="16-6-5">
+								<fields>
+									<field id="SDG_GOAL">Goal 16. Promote the emergence of peaceful and inclusive societies for sustainable development, ensure access to justice for all and build, at all levels, effective, accountable and inclusive institutions
+									</field>
+									<field id="SDG_TARGET">16.6 Build effective, accountable and transparent institutions at all levels
+									</field>
+									<field id="SDG_INDICATOR">16.6.5. Index-Mo Ibrahim on Governance
+									</field>
+									<field id="META_LAST_UPDATE">5/1/2020 12:00:00 AM
+									</field>
+									<field id="CONTACT_ORGANISATION">Ministry of Good Governance
+									</field>
+									<field id="CONTACT_NAME">BIGIRIMANA Dieudonne
+									</field>
+									<field id="ORGANISATION_UNIT">Statistical service
+									</field>
+									<field id="CONTACT_FUNCT">SDG focal point within the Ministry
+									</field>
+									<field id="CONTACT_PHONE">69265912
+									</field>
+									<field id="CONTACT_EMAIL">dieudonneb11@yahoo.fr
+									</field>
+									<field id="STAT_CONC_DEF">The Ibrahim Index of Governance in Africa (IIAG) is a tool for measuring and monitoring governance performance in African countries. The Mo Ibrahim Foundation defines governance as access to goods and public services, in the political, social and economic fields to which each citizen can legitimately claim from his state and which every state is required to offer to its fellow citizens. Within the framework of the IIAG, a country&apos;s governance performance is measured using four components: Security and Rule of Law, Participation and Human Rights,
+Sustainable economic development and human development.
+									</field>
+									<field id="UNIT_MEASURE">Percentage
+									</field>
+									<field id="SOURCE_TYPE">Ibrahim index of African Governance
+									</field>
+									<field id="FREQ_COLL">Annual
+									</field>
+									<field id="REL_CAL_POLICY">Annual
+									</field>
+									<field id="DATA_SOURCE">World Bank
+									</field>
+									<field id="COMPILING_ORG">World Bank
+									</field>
+									<field id="INST_MANDATE">It is the service of the ministry recognized by the government of Burundi
+									</field>
+									<field id="RATIONALE">This indicator is relevant
+									</field>
+									<field id="DATA_COMP">Composite index
+									</field>
+									<field id="COVERAGE">Available nationally
+									</field>
+									<field id="COMPARABILITY">The indicator can be compared to other indicators of the same type at regional and international level
+									</field>
+									<field id="OTHER_DOC">Transparency International report on corruption perception / World Bank website
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="16-9-1">
 								<fields>
 									<field id="SDG_GOAL">Goal 16. Promote the emergence of peaceful and inclusive societies for sustainable development, ensure access to justice for all and build, at all levels, effective, accountable and inclusive institutions
@@ -3512,6 +3726,78 @@
 									<field id="IND_DEF_CON_CLASS"/>
 									<field id="CLASS_SYSTEM"/>
 									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="17-13-1">
+								<fields>
+									<field id="SDG_GOAL">Goal 17. Strengthen the means of implementing and revitalizing the Global Partnership for Sustainable Development
+									</field>
+									<field id="SDG_TARGET">17.13 Strengthen global macroeconomic stability, including by promoting policy coordination and coherence
+									</field>
+									<field id="SDG_INDICATOR">17.13.1 Macroeconomic Scoreboard
+									</field>
+									<field id="META_LAST_UPDATE">5/1/2020 12:00:00 AM
+									</field>
+									<field id="CONTACT_ORGANISATION">Ministry of Finance, Budget and Economic Development Cooperation
+									</field>
+									<field id="CONTACT_NAME">IRAMBONA Eric
+									</field>
+									<field id="ORGANISATION_UNIT">Statistical service
+									</field>
+									<field id="CONTACT_FUNCT">SDG focal point within the Ministry
+									</field>
+									<field id="CONTACT_PHONE">79311134
+									</field>
+									<field id="CONTACT_EMAIL">eric.irambona85@gmail.com
+									</field>
+									<field id="STAT_CONC_DEF">Macroeconomic dashboard
+									</field>
+									<field id="UNIT_MEASURE">no unit
+									</field>
+									<field id="SOURCE_TYPE">Ministry of Finance, Budget and Economic Development Cooperation
+									</field>
+									<field id="COLL_METHOD">Administrative data
+									</field>
+									<field id="FREQ_COLL">annual
+									</field>
+									<field id="REL_CAL_POLICY">annual
+									</field>
+									<field id="DATA_SOURCE">Ministry of Finance, Budget and Economic Development Cooperation
+									</field>
+									<field id="COMPILING_ORG">Ministry of Finance, Budget and Economic Development Cooperation
+									</field>
+									<field id="RATIONALE">This indicator is relevant
+									</field>
+									<field id="DATA_COMP">It is a question of conforming or invalidating the existence of the table
+									</field>
+									<field id="DATA_VALIDATION">Ministry of Finance, Budget and Economic Development Cooperation
+									</field>
+									<field id="COVERAGE">Available nationally
+									</field>
+									<field id="COMPARABILITY">The indicator can be compared to other indicators of the same type at regional and international level
+									</field>
+									<field id="OTHER_DOC">Ministry of Finance, Macroeconomic Scoreboard, 2016
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_MAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="REC_USE_LIM"/>
 									<field id="ADJUSTMENT"/>
@@ -6525,54 +6811,6 @@ Extreme loss of livelihood resulting in severe deficiencies in food consumption,
 </fields>
 
 						</indicator>
-						<indicator id="1-4-4">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="1-a-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -6814,54 +7052,6 @@ Extreme loss of livelihood resulting in severe deficiencies in food consumption,
 
 						</indicator>
 						<indicator id="10-a-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="10-b-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
@@ -8445,54 +8635,6 @@ Extreme loss of livelihood resulting in severe deficiencies in food consumption,
 </fields>
 
 						</indicator>
-						<indicator id="16-6-5">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="16-b-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -8638,54 +8780,6 @@ Extreme loss of livelihood resulting in severe deficiencies in food consumption,
 
 						</indicator>
 						<indicator id="17-12-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="17-13-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
