@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:20:42.787Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:21:29.096Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="560ccee1-252f-43a5-a5b2-eead5cf4dd4b">
+  <mes:MetadataSet structureRef="MDS1" setID="e08247e8-efd8-40a8-b7f9-ee5fabcee9e4">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,16 +35,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 16. Promote the emergence of peaceful and inclusive societies for sustainable development, ensure access to justice for all and build, at all levels, effective, accountable and inclusive institutions]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[16.4 By 2030, significantly reduce illicit financial flows and arms trafficking, step up recovery and return activities for stolen property and fight all forms of organized crime]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[16.4.2 Number of weapons seized, found or surrendered voluntarily, the origin or illicit use of which has been traced or established by the competent authorities]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[MDNAC & MSPGC]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[This is the number of weapons by type seized]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Number]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Administrative data]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Data is collected from administrative files]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[Annual]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[MJPCGS]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[MJPCGS & MDNAC]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[The Ministerial departments are the members of the SSN whose mission is to collect, process and disseminate the data of their sector.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[This indicator is relevant because it reflects the level of performance of the justice system]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of this indicator depends on the regular collection of data from the domain]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Count of weapons seized by type]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[Validation is done at two levels: internal level and at CTIS level before publication]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally and by weapon type ([MDNAC: Weapons, Grenades, Cartridges, Bombs]; [MSPGC: Weapons, Grénades, Cartridges, Bombs])]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[The indicator can be compared to other indicators of the same type at regional and international level]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Statistical yearbook of the Ministry]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -60,9 +111,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
@@ -86,52 +134,13 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -153,15 +162,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
