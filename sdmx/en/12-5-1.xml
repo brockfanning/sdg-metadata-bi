@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:32:45.042Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:33:28.116Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ba1c6ed8-6d0a-4b9e-b864-a7ba14c1b745">
+  <mes:MetadataSet structureRef="MDS1" setID="d7dd4f4f-c33b-4c26-990a-d3afb25b1b79">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,16 +35,28 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Objective 12. Establish sustainable consumption and production patterns]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[12.5 By 2030, significantly reduce waste generation through prevention, reduction, recycling and reuse]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[12.5.1. Percentage of biomedical waste treated by 2020, and the maximum by 2025]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of biomedical waste treated compared to all biomedical waste]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Ratio of treated biomedical waste to all biomedical waste, expressed as a percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Not available]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -86,12 +98,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -128,9 +134,6 @@
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -155,9 +158,6 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -167,7 +167,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="e371ced7-ad86-481d-aa70-719b7d5155f0">
+  <mes:MetadataSet structureRef="MDS1" setID="bc81a7e6-697f-4d8f-b4a5-365246a6891d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,16 +191,28 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Objective 12. Establish sustainable consumption and production patterns]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[12.5 By 2030, significantly reduce waste generation through prevention, reduction, recycling and reuse]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[12.5.1. Percentage of biomedical waste treated by 2020, and the maximum by 2025]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of biomedical waste treated compared to all biomedical waste]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Ratio of treated biomedical waste to all biomedical waste, expressed as a percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Not available]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -242,12 +254,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -284,9 +290,6 @@
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -311,9 +314,6 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -323,7 +323,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="23216d78-8b15-4eb3-9ef6-7cf60bffa565">
+  <mes:MetadataSet structureRef="MDS1" setID="e6891471-8ad3-4529-ae71-14152b1c4957">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -347,16 +347,28 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Objective 12. Establish sustainable consumption and production patterns]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[12.5 By 2030, significantly reduce waste generation through prevention, reduction, recycling and reuse]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[12.5.1. Percentage of biomedical waste treated by 2020, and the maximum by 2025]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of biomedical waste treated compared to all biomedical waste]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Ratio of treated biomedical waste to all biomedical waste, expressed as a percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Not available]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -398,12 +410,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -440,9 +446,6 @@
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -467,9 +470,6 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -479,7 +479,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="997a56ed-4450-4af7-b9a1-ee37a605d724">
+  <mes:MetadataSet structureRef="MDS1" setID="9c27d3b8-8fda-4e03-84ec-081e4397414a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -503,16 +503,28 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Objective 12. Establish sustainable consumption and production patterns]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[12.5 By 2030, significantly reduce waste generation through prevention, reduction, recycling and reuse]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[12.5.1. Percentage of biomedical waste treated by 2020, and the maximum by 2025]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the percentage of biomedical waste treated compared to all biomedical waste]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Ratio of treated biomedical waste to all biomedical waste, expressed as a percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Not available]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -554,12 +566,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -596,9 +602,6 @@
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -621,9 +624,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
