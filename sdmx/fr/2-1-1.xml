@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:09:06.878Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:12:34.032Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ff5fc168-3e2b-4eae-805d-b859be630aa4">
+  <mes:MetadataSet structureRef="MDS1" setID="5f565cab-d736-441c-ab7b-4d7259500031">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -171,7 +171,7 @@ Perte extrême des moyens d’existence aboutissant à d’importantes déficien
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="2f93ef79-16ed-4d34-9e9c-e44afea352a2">
+  <mes:MetadataSet structureRef="MDS1" setID="d3914ba3-92b9-48b0-85d1-ccb6bcef7e3e">
     <com:Name xml:lang="fr">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
