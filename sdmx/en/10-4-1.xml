@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T18:43:32.220Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T18:44:37.253Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="066c3c01-0a5b-4010-9dd4-a8b598d615d1">
+  <mes:MetadataSet structureRef="MDS1" setID="cb11fef9-9a60-4390-a2a2-292063afa31b">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,22 +35,82 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[Goal 10. Reduce inequalities within and across countries]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[10.4 Adopt policies, particularly in the budgetary, salary and social protection fields, in order to gradually achieve greater equality]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[10.4.1 Share of labor in GDP, including wages and social transfers]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[5/1/2020 12:00:00 AM]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[Burundi Institute of Statistics and Economic Studies (ISTEEBU)]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[NDAYISENGA Modest]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[Social Studies and Statistics and Poverty Monitoring Service "SESSSP"]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[Head of the “Social Studies and Statistics and Poverty Monitoring” department]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[(+257) 79401937]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"><![CDATA[1156 BUJUMBURA]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[ndayimode2010@gmail.com]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the total compensation of employees and social transfers made, expressed as a percentage of GDP, that is a measure of total output for a given reference period.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[Percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Household surveys or administrative data]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Data are collected by carrying out ECVMB type surveys / daily data from national accounts]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ISTEEBU]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ISTEEBU is responsible for compiling the data allowing the calculation of this indicator at the national level]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[ISTEEBU is the body recognized by the Burundian government for the collection, processing and dissemination, after validation, of official statistics helping in planning and decision-making]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator provides information on the relative share of production that is paid as compensation to employees compared to the share paid to capital in the production process for a given reference period]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The share of labor in GDP calculated solely on the basis of compensation of employees underestimates the proportion of accumulated GDP in relation to total employment, because it does not include the labor income of the self-employed.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[Total compensation of employees in relation to gross domestic product, expressed as a percentage]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[Survey data is validated at two levels: internal validation and extended validation]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is available at national level]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[ISTEEBU, Survey on the living conditions of Burundian households (ECVMB) 2013-2014, National accounts of 2014]]></com:Text>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
@@ -62,34 +122,7 @@
         <gen:ReportedAttribute id="CONTACT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
@@ -98,40 +131,13 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -155,13 +161,7 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
