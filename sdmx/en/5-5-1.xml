@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:22:14.353Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:24:27.710Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="c8addee8-72d9-46a5-8c3a-796dbe74dd08">
+  <mes:MetadataSet structureRef="MDS1" setID="5a0fea2c-6724-4814-a789-0e15bf3336c8">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,16 +35,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[5.5.1. % of seats held by women in the national parliament]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[PARLIAMENT AND SENATE]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[Parliament and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Website of the National Assembly and the Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Site of the Assembly and the Senet]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the texts and laws passed;]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Assembly and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -60,12 +111,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -86,9 +131,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -98,40 +140,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -155,19 +164,10 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="156aa6f1-4a20-47fd-a2ff-5442f8595b6e">
+  <mes:MetadataSet structureRef="MDS1" setID="942fc41a-5302-407a-8744-0f2c0b06e7d6">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,16 +191,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[5.5.1. % of seats held by women in the national parliament]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[PARLIAMENT AND SENATE]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[Parliament and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Website of the National Assembly and the Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Site of the Assembly and the Senet]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the texts and laws passed;]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Assembly and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -216,12 +267,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -242,9 +287,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -254,40 +296,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -311,19 +320,10 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="f39d7f30-4cbb-4d3a-b8b2-3bf95dcf6937">
+  <mes:MetadataSet structureRef="MDS1" setID="b2654a50-bc45-43be-a91d-f576c95c94ff">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -347,16 +347,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[5.5.1. % of seats held by women in the national parliament]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[PARLIAMENT AND SENATE]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[Parliament and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Website of the National Assembly and the Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Site of the Assembly and the Senet]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the texts and laws passed;]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Assembly and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -372,12 +423,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -398,9 +443,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -410,40 +452,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -467,19 +476,10 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="32ba48b5-b7fe-4988-b244-f413b2a1d94c">
+  <mes:MetadataSet structureRef="MDS1" setID="6091f9e4-1f5a-4840-9c3b-c70b3866563e">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -503,16 +503,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[5.5.1. % of seats held by women in the national parliament]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[PARLIAMENT AND SENATE]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[Parliament and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Website of the National Assembly and the Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Site of the Assembly and the Senet]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the texts and laws passed;]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Assembly and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -528,12 +579,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -554,9 +599,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -566,40 +608,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -623,19 +632,10 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="1451bbf9-e6d0-4ac7-87f9-7b75a71ca834">
+  <mes:MetadataSet structureRef="MDS1" setID="35f649a9-1a2f-43ec-86da-25eb74de6e90">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -659,16 +659,67 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[5.5.1. % of seats held by women in the national parliament]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[PARLIAMENT AND SENATE]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[Parliament and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[It is the ratio between the number of seats occupied by women and the total number of seats in Parliament and Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[Website of the National Assembly and the Senate]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Site of the Assembly and the Senet]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it reflects the texts and laws passed;]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[It is the number of seats held by women out of the total number of seats in Parliament and Senate, multiplied by 100]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[Available nationally]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[Assembly and Senate website]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -684,12 +735,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -710,9 +755,6 @@
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
@@ -722,40 +764,7 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -777,15 +786,6 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
