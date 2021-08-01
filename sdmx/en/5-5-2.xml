@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-08-01T19:21:29.204Z</mes:Prepared>
+    <mes:Prepared>2021-08-01T19:22:14.358Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ecd82784-2eb0-43cb-9653-bb25483072a7">
+  <mes:MetadataSet structureRef="MDS1" setID="522893f8-7f9a-47cd-990e-530b78e88f2d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -35,64 +35,16 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"><![CDATA[5.5.2. % of women in decision-making positions (Minister, Provincial Governor, Communal Administrator% Provincial Governor, Communal Administrator)]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"><![CDATA[GOVERNMENT SECRETARIAT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it provides information on the appointments]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"><![CDATA[Number of Women Ministers, Governors, Municipal Administrators divided by the total number of Municipal Ministers, Governors or Administrators, multiplied by 100]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"><![CDATA[Available at national level (Ministers; Governors; Municipal administration)]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -108,6 +60,12 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -140,7 +98,40 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -164,10 +155,19 @@
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="c27cd7a9-65b2-40a7-ac4e-ddfab1c6191a">
+  <mes:MetadataSet structureRef="MDS1" setID="25e3fd1e-2be6-4598-8440-dab0095d9f50">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -191,64 +191,16 @@
         </gen:ReferenceValue>
       </gen:Target>
       <gen:AttributeSet>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"><![CDATA[Goal 5. Achieve gender equality and empower all women and girls]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"><![CDATA[5.5 Ensure that women participate fully and effectively in leadership functions at all decision-making levels, in political, economic and public life, and have access to them on an equal footing]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"><![CDATA[5.5.2. % of women in decision-making positions (Minister, Provincial Governor, Communal Administrator% Provincial Governor, Communal Administrator)]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"><![CDATA[GOVERNMENT SECRETARIAT]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"><![CDATA[Consultation of the bulletin or the Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[The indicator is relevant because it provides information on the appointments]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"><![CDATA[The update of the indicator results from the site feed]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"><![CDATA[Number of Women Ministers, Governors, Municipal Administrators divided by the total number of Municipal Ministers, Governors or Administrators, multiplied by 100]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"><![CDATA[Available at national level (Ministers; Governors; Municipal administration)]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"><![CDATA[N / A]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"><![CDATA[Government website]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
@@ -264,6 +216,12 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
@@ -296,7 +254,40 @@
         <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="ADJUSTMENT">
@@ -318,6 +309,15 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
